@@ -1,36 +1,36 @@
 # SkillForge Public Skills Leaderboard
 
-Auto-generated weekly. Last update: **2026-04-20 13:57 UTC**.
+Auto-generated weekly. Last update: **2026-04-27 14:09 UTC**.
 
-Ranking 25 of 87 SKILL.md files discovered on GitHub, graded by [SkillForge](https://github.com/LiqunChen0606/skillforge).
+Ranking 25 of 94 SKILL.md files discovered on GitHub, graded by [SkillForge](https://github.com/LiqunChen0606/skillforge).
 
 | # | Grade | Score | Repository | Stars | Security |
 | - | ----- | ----- | ---------- | ----- | -------- |
-| 1 | **A+** | 97/100 | [LottieFiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web/blob/4e62f2fbdea3f00610428b1c35ba9efa972bd194/SKILL.md) | 500 | clean |
-| 2 | **A+** | 97/100 | [blader/taskmaster](https://github.com/blader/taskmaster/blob/a1f3feb427fa1d167640c9c1b94013492ad1d15d/SKILL.md) | 493 | clean |
-| 3 | **A+** | 97/100 | [inboundemail/inbound](https://github.com/inboundemail/inbound/blob/55f1c82d18accc3f84da8282f0a6d4697e5876b2/SKILL.md) | 337 | clean |
-| 4 | **A+** | 97/100 | [elbwalker/walkerOS](https://github.com/elbwalker/walkerOS/blob/fbec5aa993bb2930b858fe25b792cc417f92dc1f/apps/explorer/SKILL.md) | 335 | clean |
-| 5 | **A+** | 97/100 | [1sadjlk/bounty-hunter-skill](https://github.com/1sadjlk/bounty-hunter-skill/blob/83236787b3ba47dcfea6c80c7fc14bbee3ee96b8/SKILL.md) | 278 | clean |
-| 6 | **A+** | 97/100 | [matsonj/mviz](https://github.com/matsonj/mviz/blob/c76631c9845aaaa16c0da88f62cca2ebea57c104/SKILL.md) | 209 | clean |
-| 7 | **A+** | 97/100 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry/blob/6ac275d9e0a93914053f94ace521fd9c46eb3158/skills/design/gemini/SKILL.md) | 204 | clean |
-| 8 | **A+** | 97/100 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry/blob/6ac275d9e0a93914053f94ace521fd9c46eb3158/skills/data/devup-ui/SKILL.md) | 204 | clean |
-| 9 | **A+** | 97/100 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry/blob/6ac275d9e0a93914053f94ace521fd9c46eb3158/skills/data/proteomics/SKILL.md) | 204 | clean |
-| 10 | **A+** | 97/100 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry/blob/6ac275d9e0a93914053f94ace521fd9c46eb3158/skills/design/vly-money/SKILL.md) | 204 | clean |
-| 11 | **A+** | 97/100 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry/blob/6ac275d9e0a93914053f94ace521fd9c46eb3158/skills/development/astro/SKILL.md) | 204 | clean |
-| 12 | **A+** | 97/100 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry/blob/6ac275d9e0a93914053f94ace521fd9c46eb3158/skills/other/other/elves/SKILL.md) | 204 | clean |
-| 13 | **A+** | 97/100 | [axtonliu/ai-pair](https://github.com/axtonliu/ai-pair/blob/60961fa39156468385f972c7b4cecdc5fc6ee9a1/SKILL.md) | 202 | clean |
-| 14 | **A+** | 97/100 | [abracadabra50/claude-code-voice-skill](https://github.com/abracadabra50/claude-code-voice-skill/blob/c567f700a914dcfaf72a6b167e87da0978cfa4ab/SKILL.md) | 162 | clean |
-| 15 | **A+** | 97/100 | [dztabel-happy/codex-agent](https://github.com/dztabel-happy/codex-agent/blob/191ebaa8bb0dfe6376738521246b7311b18bf07b/SKILL.md) | 160 | clean |
-| 16 | **A+** | 97/100 | [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli/blob/f3ae4ebac555b53ded3b4e816c6ec814a39f329d/SKILL.md) | 159 | clean |
-| 17 | **A+** | 97/100 | [Gingiris/gingiris-launch](https://github.com/Gingiris/gingiris-launch/blob/14c49dd87d4fa72bdfd37961582a51c7b69d6abe/SKILL.md) | 159 | clean |
-| 18 | **A+** | 97/100 | [joeseesun/lennys-podcast-newsletter](https://github.com/joeseesun/lennys-podcast-newsletter/blob/a0e29023ac165f0300cd81d6eb7059dec1385bc6/SKILL.md) | 155 | clean |
-| 19 | **A+** | 97/100 | [Scottcjn/beacon-skill](https://github.com/Scottcjn/beacon-skill/blob/0b61918ed118e98cb189ab6a5a5cac4970deb927/SKILL.md) | 132 | clean |
-| 20 | **A+** | 97/100 | [jkudish/librarium](https://github.com/jkudish/librarium/blob/190922f554a0e36a3011590c070fa8d6ea956bc1/SKILL.md) | 118 | clean |
-| 21 | **A+** | 97/100 | [na57/chinese-copyright-application-skill](https://github.com/na57/chinese-copyright-application-skill/blob/04081d07d052e929dc0f3b768c046e49cee03c32/SKILL.md) | 77 | clean |
-| 22 | **A+** | 97/100 | [sudarshan-koirala/llm-resources](https://github.com/sudarshan-koirala/llm-resources/blob/5139c39731932f2c97c400b81f9b19414dfbb1c2/skill.md) | 75 | clean |
-| 23 | **A+** | 97/100 | [naoterumaker/japan-gyousei-data](https://github.com/naoterumaker/japan-gyousei-data/blob/5658a5f554f751d209e10a47f90662b39c0eb818/SKILL.md) | 53 | clean |
-| 24 | **A+** | 97/100 | [ezbuy/ezorm](https://github.com/ezbuy/ezorm/blob/a33fa8c73a2317276ac23e44960b0f3555e743a4/SKILL.md) | 50 | clean |
-| 25 | **A+** | 97/100 | [auyelbekov/rawq](https://github.com/auyelbekov/rawq/blob/91031052bae24f842c5079c79cfc03bd131362ab/SKILL.md) | 46 | clean |
+| 1 | **A+** | 97/100 | [dztabel-happy/codex-agent](https://github.com/dztabel-happy/codex-agent/blob/191ebaa8bb0dfe6376738521246b7311b18bf07b/SKILL.md) | 159 | clean |
+| 2 | **A+** | 97/100 | [SukinShetty/Nemp-memory](https://github.com/SukinShetty/Nemp-memory/blob/5f3e48af5129d00fb28c7e8b27e03aeb3b89ed28/SKILL.md) | 96 | clean |
+| 3 | **A+** | 97/100 | [trsoliu/mini-wiki](https://github.com/trsoliu/mini-wiki/blob/b055d02ca87ee73793755f6e71ff27d7a2b0ffda/SKILL.md) | 73 | clean |
+| 4 | **A+** | 97/100 | [OEN-Tech/incident-report-skill](https://github.com/OEN-Tech/incident-report-skill/blob/403860eb095ed00356ae030848c44afd277cbe9f/SKILL.md) | 60 | clean |
+| 5 | **A+** | 97/100 | [naoterumaker/japan-gyousei-data](https://github.com/naoterumaker/japan-gyousei-data/blob/5658a5f554f751d209e10a47f90662b39c0eb818/SKILL.md) | 53 | clean |
+| 6 | **A+** | 97/100 | [yxp934/crushable-wingman-skill](https://github.com/yxp934/crushable-wingman-skill/blob/ee243dc1b91b6fad9bff747eafc6eade4b3e1d39/SKILL.md) | 40 | clean |
+| 7 | **A+** | 97/100 | [sliday/daub](https://github.com/sliday/daub/blob/654edb82881db650ee2a7b9b829bd6fb08f09acf/SKILL.md) | 36 | clean |
+| 8 | **A+** | 97/100 | [ZhenHuangLab/collaborating-with-claude-code](https://github.com/ZhenHuangLab/collaborating-with-claude-code/blob/83d04e3f4fc4f9cc4538fff253fd89ad23016f70/SKILL.md) | 34 | clean |
+| 9 | **A+** | 97/100 | [huiali/rust-skills](https://github.com/huiali/rust-skills/blob/947bf77509d9b421035037e983da6662d08cbb8e/SKILL.md) | 29 | clean |
+| 10 | **A+** | 97/100 | [cashubtc/cashu-skill](https://github.com/cashubtc/cashu-skill/blob/0e176227db2ef975d9940c79a6d4cf3f20b9213b/SKILL.md) | 24 | clean |
+| 11 | **A+** | 97/100 | [webleon/tech-earnings-deepdive-openclaw-skill](https://github.com/webleon/tech-earnings-deepdive-openclaw-skill/blob/5bff060bb71811475bc2c430b749707e9eaade91/SKILL.md) | 24 | clean |
+| 12 | **A+** | 97/100 | [chenhunghan/code-mode-skill](https://github.com/chenhunghan/code-mode-skill/blob/3a2240a618d724da367a1ad55c4d1092d59e30d8/SKILL.md) | 19 | clean |
+| 13 | **A+** | 97/100 | [CyrusNuevoDia/coderlm](https://github.com/CyrusNuevoDia/coderlm/blob/fe25df45c9f624626edfb59d92b80c904fb692db/SKILL.md) | 19 | clean |
+| 14 | **A+** | 97/100 | [pepicrft/openclaw-plugin-loom](https://github.com/pepicrft/openclaw-plugin-loom/blob/2c0f2be96a1d8f1a7e71556d3975fcc000ac4c0f/SKILL.md) | 16 | clean |
+| 15 | **A+** | 97/100 | [dgrr/tgcli](https://github.com/dgrr/tgcli/blob/f7686add1def02487e43e85beb165ba7b076c796/SKILL.md) | 14 | clean |
+| 16 | **A+** | 97/100 | [viktorvuka/claude-things-skill](https://github.com/viktorvuka/claude-things-skill/blob/33749b5388f19a31430bd525974e9480f12b3460/SKILL.md) | 14 | clean |
+| 17 | **A+** | 97/100 | [win4r/mytest](https://github.com/win4r/mytest/blob/d9dbc8f5c1e66f284d748c80e591c88a88c24c7e/skill.md) | 13 | clean |
+| 18 | **A+** | 97/100 | [wkyleg/personal-genomics](https://github.com/wkyleg/personal-genomics/blob/9ea4c8c73bc201f45e39b694a88d714d871f9f9a/SKILL.md) | 13 | clean |
+| 19 | **A+** | 97/100 | [mr-kelly/wxclaw2026](https://github.com/mr-kelly/wxclaw2026/blob/9c3c9b10e86b7320d5d43dafa9a96bb97964927d/SKILL.md) | 12 | clean |
+| 20 | **A+** | 97/100 | [AnyGenIO/anygen-selected-skills](https://github.com/AnyGenIO/anygen-selected-skills/blob/d9545a1395132339a6ed2f0335f856dfcad1aa5b/SKILL.md) | 11 | clean |
+| 21 | **A+** | 97/100 | [lemikeone/Codex-skill-raycast-extension](https://github.com/lemikeone/Codex-skill-raycast-extension/blob/8a4329656bf1d009771477248c86105f6563f9c1/SKILL.md) | 9 | clean |
+| 22 | **A+** | 97/100 | [HuakunShen/tauri-plugin-js](https://github.com/HuakunShen/tauri-plugin-js/blob/c2860295feadf5402901b2079c852377d785df11/SKILL.md) | 9 | clean |
+| 23 | **A+** | 97/100 | [3li7alaki/mint](https://github.com/3li7alaki/mint/blob/ca3739dbf4491cbac149efb530d0877d97c08994/SKILL.md) | 8 | clean |
+| 24 | **A+** | 97/100 | [richlander/markout](https://github.com/richlander/markout/blob/9e022f5b84110c5ab080d7306da619d209ce655d/SKILL.md) | 8 | clean |
+| 25 | **A+** | 97/100 | [6missedcalls/video-editing-skill](https://github.com/6missedcalls/video-editing-skill/blob/7dc6e1da66f43eff44c3692d4b84e06aef6590b6/SKILL.md) | 7 | clean |
 
 ## Methodology
 
