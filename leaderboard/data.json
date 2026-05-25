@@ -1,32 +1,19 @@
 {
-  "generated_at": "2026-05-11 15:25 UTC",
-  "total_graded": 89,
+  "generated_at": "2026-05-25 15:20 UTC",
+  "total_graded": 82,
   "skills": [
     {
-      "repo": "jackwener/xhs-cli",
+      "repo": "rohanarun/phoneclaw",
       "path": "SKILL.md",
-      "url": "https://github.com/jackwener/xhs-cli/blob/3ce71415dc0816ebb4c3f547baf6c08fb3d5cb5a/SKILL.md",
+      "url": "https://github.com/rohanarun/phoneclaw/blob/c59995b726a127da16275d2d8e0760408b988542/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "\u5c0f\u7ea2\u4e66\u547d\u4ee4\u884c\u5de5\u5177 \u2014 \u641c\u7d22\u3001\u9605\u8bfb\u3001\u70b9\u8d5e\u3001\u6536\u85cf\u3001\u8bc4\u8bba\uff0c\u5168\u5728\u7ec8\u7aef\u5b8c\u6210 | Xiaohongshu CLI",
-      "stars": 464
-    },
-    {
-      "repo": "owasp-dep-scan/blint",
-      "path": "SKILL.md",
-      "url": "https://github.com/owasp-dep-scan/blint/blob/b877a9f17291f807a1b1eb487b87ed5e1a32af03/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "blint is a Binary Linter that checks the security properties and capabilities of your executables. It can also generate a Software Bill-of-Materials (SBOM) for supported binaries.",
-      "stars": 445
+      "description": "A version of openClaw/Clawdbot that automates android phones entirely without root, including all apps from a side-loaded APK. Acts as your 24/7 personal assistant on your phone. ",
+      "stars": 510
     },
     {
       "repo": "xwtro0tk1t-cloud/harness",
@@ -39,72 +26,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in one command: knowledge management, architecture constraints, feedback loops, and entropy management.",
-      "stars": 325
-    },
-    {
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills/development/tech-blog/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/development/tech-blog/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
-    },
-    {
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills/other/other/rust-skills/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/other/other/rust-skills/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
-    },
-    {
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills/other/other/claude-code-starter/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/other/other/claude-code-starter/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
-    },
-    {
-      "repo": "Russell-cell/PPT-as-code",
-      "path": "SKILL.md",
-      "url": "https://github.com/Russell-cell/PPT-as-code/blob/3f0cfce71fb7e62958ba796653c34aeba484fc59/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": null,
-      "stars": 189
-    },
-    {
-      "repo": "BruceLanLan/buffett-oracle-analyzer",
-      "path": "SKILL.md",
-      "url": "https://github.com/BruceLanLan/buffett-oracle-analyzer/blob/be172aa9fc814c313488b2bbcc0e17870be1ae86/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\u5df4\u83f2\u7279\u795e\u8c15\u5206\u6790\u5e08 - AI\u9a71\u52a8\u4e0a\u5e02\u516c\u53f8\u6df1\u5ea6\u5206\u6790Skill\uff0c\u878d\u5408\u5df4\u83f2\u7279\u6295\u8d44\u667a\u6167\u4e0e12\u6a21\u5757\u5206\u6790\u6846\u67b6\uff0c\u8986\u76d6\u7f8e\u80a1/\u6e2f\u80a1/A\u80a1",
-      "stars": 184
+      "stars": 328
     },
     {
       "repo": "abracadabra50/claude-code-voice-skill",
@@ -117,7 +39,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Skill to talk to Claude about your projects over the phone",
-      "stars": 164
+      "stars": 165
     },
     {
       "repo": "bradAGI/GraphMemory",
@@ -130,20 +52,20 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "GraphRAG database - hybrid graph / vector db",
-      "stars": 149
+      "stars": 150
     },
     {
-      "repo": "aresbit/fetch-skill",
+      "repo": "suryast/indonesia-gov-apis",
       "path": "SKILL.md",
-      "url": "https://github.com/aresbit/fetch-skill/blob/d67a579dd4533386e41b6175e07a70c10b6a0c8e/SKILL.md",
+      "url": "https://github.com/suryast/indonesia-gov-apis/blob/89eb07f000944885c3c7d3360409fc057fb53d29/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "fetch-skill",
-      "stars": 141
+      "description": "\ud83c\uddee\ud83c\udde9 50+ Indonesian Government APIs & Data Sources \u2014 BPS, OJK, BPJPH, BPOM, Bank Indonesia, IDX, BMKG + MCP servers. Python examples, scraping patterns, and practical gotchas. It's very challenging to keep up with all the breaking and blocking changes of Indonesian government APIs and digital resources. Always verify and test rigorously.",
+      "stars": 147
     },
     {
       "repo": "mfranzon/tdd",
@@ -156,20 +78,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "tdd skill for coding agents ",
-      "stars": 138
-    },
-    {
-      "repo": "cat9999aaa/dev-planner-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/cat9999aaa/dev-planner-skill/blob/33499e67be2c04669b2fb36658781f3547d113f3/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\ud83d\ude80 \u5bf9\u8bdd\u5f0f AI \u5f00\u53d1\u89c4\u5212\u5e08 | \u5f15\u5bfc\u5c0f\u767d\u7528 Agent \u56e2\u961f + MCP \u5de5\u5177\u628a\u60f3\u6cd5\u53d8\u6210\u5b8c\u6574\u9879\u76ee",
-      "stars": 131
+      "stars": 140
     },
     {
       "repo": "0xenzyme/polanyi-skill",
@@ -182,59 +91,20 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": null,
-      "stars": 124
+      "stars": 131
     },
     {
-      "repo": "na57/chinese-copyright-application-skill",
+      "repo": "camalus/BHIL-AI-First-Development-Toolkit",
       "path": "SKILL.md",
-      "url": "https://github.com/na57/chinese-copyright-application-skill/blob/04081d07d052e929dc0f3b768c046e49cee03c32/SKILL.md",
+      "url": "https://github.com/camalus/BHIL-AI-First-Development-Toolkit/blob/161f8e5311bdfc88bc650dcf800948437aecb93b/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "\u7528\u4e8e\u751f\u6210\u4e2d\u56fd\u8f6f\u4ef6\u8457\u4f5c\u6743\u7533\u8bf7\u6750\u6599\u7684\u5b8c\u6574\u5de5\u5177\u5305\u3002\u652f\u6301\u4ece\u9879\u76ee\u4ee3\u7801\u3001\u6587\u6863\u7b49\u81ea\u52a8\u63d0\u53d6\u4fe1\u606f\uff0c\u751f\u6210\u8f6f\u4ef6\u8457\u4f5c\u6743\u767b\u8bb0\u7533\u8bf7\u8868\u3001\u6e90\u4ee3\u7801\u6587\u6863\uff08\u524d\u540e\u540430\u9875\uff09\u3001\u7528\u6237\u624b\u518c\u548c\u8bbe\u8ba1\u8bf4\u660e\u4e66\u3002\u9002\u7528\u4e8e\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u3001Web\u5e94\u7528\u3001\u79fb\u52a8App\u3001\u684c\u9762\u5e94\u7528\u7b49\u5404\u7c7b\u8f6f\u4ef6\u9879\u76ee\u3002",
-      "stars": 122
-    },
-    {
-      "repo": "SukinShetty/Nemp-memory",
-      "path": "SKILL.md",
-      "url": "https://github.com/SukinShetty/Nemp-memory/blob/5f3e48af5129d00fb28c7e8b27e03aeb3b89ed28/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Nemp - The memory plugin for Claude Code that remembers everything.",
-      "stars": 101
-    },
-    {
-      "repo": "huxiuhan/civ-finish-quotes",
-      "path": "SKILL.md",
-      "url": "https://github.com/huxiuhan/civ-finish-quotes/blob/f0ae54234c1959b90dc03222c0a91b1dc49f49ff/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "A skilll for agent to add a Civilization-style ceremonial quote when a substantial multi-step task is truly complete. ",
-      "stars": 100
-    },
-    {
-      "repo": "fastclaw-ai/anyclaw",
-      "path": "SKILL.md",
-      "url": "https://github.com/fastclaw-ai/anyclaw/blob/eb7052708f993552e70043a1bff8b9a243148c4f/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": null,
-      "stars": 85
+      "description": "A production-grade methodology repository for building AI-native applications using iterative sprints, where AI coding agents are primary implementors and humans are architects, reviewers, and decision-makers.",
+      "stars": 128
     },
     {
       "repo": "DQXCJ-a11y/thesis-skill-hub",
@@ -247,20 +117,33 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\u7855\u58eb\u8bba\u6587\u5ba1\u67e5\u4e0e\u5199\u4f5cSKILL\u805a\u5408\u9879\u76ee | \u6301\u7eed\u6536\u5f55GitHub\u4e0a\u6700\u4f18\u8d28\u7684\u8bba\u6587\u5199\u4f5cskill\u5e76\u5f52\u7eb3\u4e3a\u4e00\u4efd\u53ef\u76f4\u63a5\u4f7f\u7528\u7684SKILL.md",
-      "stars": 81
+      "stars": 117
     },
     {
-      "repo": "zeromicro/zero-skills",
+      "repo": "NimaChu/free-imagegen",
       "path": "SKILL.md",
-      "url": "https://github.com/zeromicro/zero-skills/blob/943a13c5d82cbd3d8f896134ea6b34182bb4c32f/SKILL.md",
+      "url": "https://github.com/NimaChu/free-imagegen/blob/98bde958f8095fe62243fa1c9e81545947848197/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "AI-optimized knowledge base for building applications with go-zero",
-      "stars": 73
+      "description": null,
+      "stars": 110
+    },
+    {
+      "repo": "fastclaw-ai/anyclaw",
+      "path": "SKILL.md",
+      "url": "https://github.com/fastclaw-ai/anyclaw/blob/eb7052708f993552e70043a1bff8b9a243148c4f/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": null,
+      "stars": 90
     },
     {
       "repo": "keemanxp/slr-prisma",
@@ -273,33 +156,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "A Claude skill that walks you through writing a systematic literature review following the PRISMA 2020 framework.",
-      "stars": 69
-    },
-    {
-      "repo": "fabio-rovai/brain-in-the-fish",
-      "path": "SKILL.md",
-      "url": "https://github.com/fabio-rovai/brain-in-the-fish/blob/1279768062e5a8289f7c50a90f35fe179f3b8788/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Score any document. Prove every claim. ",
-      "stars": 62
-    },
-    {
-      "repo": "OEN-Tech/incident-report-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/OEN-Tech/incident-report-skill/blob/403860eb095ed00356ae030848c44afd277cbe9f/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Claude Code skill: Taiwan cybersecurity incident report generator (\u500b\u4eba\u8cc7\u6599\u4fb5\u5bb3\u4e8b\u6545\u901a\u5831\u8207\u7d00\u9304\u8868)",
-      "stars": 62
+      "stars": 71
     },
     {
       "repo": "ikuaidev/ikuai-cli",
@@ -312,46 +169,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "CLI tool for managing iKuai routers \u2014 network, VPN, firewall, users, QoS and more from the terminal.   AI-agent ready.",
-      "stars": 55
-    },
-    {
-      "repo": "jkf87/ohmyclaw",
-      "path": "SKILL.md",
-      "url": "https://github.com/jkf87/ohmyclaw/blob/f38d10f6398ea1621b98a3ae92bf4970a19ebaf3/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "OpenClaw Plan\u2192Work\u2192Review workflow engine with model routing",
-      "stars": 55
-    },
-    {
-      "repo": "woodfantasy/Seedance2.0-ShotDesign-Skills",
-      "path": "SKILL.md",
-      "url": "https://github.com/woodfantasy/Seedance2.0-ShotDesign-Skills/blob/97cd348ad8ca75801dc2a144ae9709fbcab8e9b2/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Seedance 2.0 Shot Design Skills",
-      "stars": 54
-    },
-    {
-      "repo": "nilstate/icey-cli",
-      "path": "SKILL.md",
-      "url": "https://github.com/nilstate/icey-cli/blob/942520f1e3fe34798f6efcff9007e6219feb5a0a/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Self-hosted real-time media server and CLI surface for icey",
-      "stars": 51
+      "stars": 63
     },
     {
       "repo": "MichaelRochonnn/buffett-investment-research",
@@ -364,71 +182,45 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Buffett-style company analysis skill for Codex that turns primary-source research into structured investment memos.",
-      "stars": 48
+      "stars": 53
     },
     {
-      "repo": "mykpono/ultimate-seo-geo",
+      "repo": "ZeroxZhang/md2book",
       "path": "SKILL.md",
-      "url": "https://github.com/mykpono/ultimate-seo-geo/blob/eb77d1a5763fe3fb2692915f6743dac1f5734268/SKILL.md",
+      "url": "https://github.com/ZeroxZhang/md2book/blob/4e3388b2c181bd3dab91209b787381d8377ebb4d/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Overviews, ChatGPT, Perplexity), schema generation, E-E-A-T assessment, and 20 diagnostic scripts. Three modes: Audit \u2192 Plan \u2192 Execute.",
-      "stars": 38
+      "description": null,
+      "stars": 52
     },
     {
-      "repo": "hjdhnx/claw-ds",
+      "repo": "geekjourneyx/claude-design-card",
       "path": "SKILL.md",
-      "url": "https://github.com/hjdhnx/claw-ds/blob/6dbe55a6da59e4282db2d98a96bc1239b56d3dee/SKILL.md",
+      "url": "https://github.com/geekjourneyx/claude-design-card/blob/63d32bdd035396bcba17b0ab252a4c76808bbd21/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "\u57fa\u4e8e\u9f99\u867e\u7684ds\u6e90skill,\u4e0d\u5199\u6e90\uff0c\u53ea\u5582\u5b83skill\u3002\u7528\u6237\u53ea\u9700\u8981\u544a\u6211\u5b83\uff0c\u8bf7\u6839\u636e\u8fd9\u4e2a\u7f51\u5740\u7ed9\u6211\u6700\u7ec8\u7684ds\u6e90\u6587\u4ef6...",
-      "stars": 37
+      "description": "Claude Code skill for generating design cards in 14 formats \u2014 platform   covers, social sharing cards, and editorial layouts following Anthropic",
+      "stars": 51
     },
     {
-      "repo": "Zechang-Xiong/chinese-reference-formatter-skill",
+      "repo": "betseyliu/prd-debate",
       "path": "SKILL.md",
-      "url": "https://github.com/Zechang-Xiong/chinese-reference-formatter-skill/blob/85e84ade282cf44f04b7819b00bec79a1d4379a1/SKILL.md",
+      "url": "https://github.com/betseyliu/prd-debate/blob/51199eba17e6837bb06683686b4c1031a05bf78a/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "Codex skill for formatting Chinese academic references and BibTeX",
-      "stars": 36
-    },
-    {
-      "repo": "OrangeViolin/skill-evolve",
-      "path": "SKILL.md",
-      "url": "https://github.com/OrangeViolin/skill-evolve/blob/bccbeeb98b4380d6b3e2196429349ae9380f5a47/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\u6f14\u8fdb\u5f0f Skill \u6539\u8fdb \u2014 A Claude Code Skill that improves other skills through observation, pattern extraction, and iterative refinement. Based on OTF + JIT + Bootstrap methodology.",
-      "stars": 33
-    },
-    {
-      "repo": "qcx1919788736-collab/craft-companion",
-      "path": "SKILL.md",
-      "url": "https://github.com/qcx1919788736-collab/craft-companion/blob/3969902b7a67f40265240f213bfe408ea457e206/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "AI\u534f\u4f5c\u5c0f\u8bf4\u521b\u4f5c\u6846\u67b6 - \u7ed3\u6784\u5316\u77e5\u8bc6\u5e93 + \u53cc\u5165\u53e3\u521d\u59cb\u5316 + 5\u9636\u6bb5\u5de5\u4f5c\u6d41",
+      "description": "prd-debate skill",
       "stars": 33
     },
     {
@@ -445,43 +237,95 @@
       "stars": 29
     },
     {
-      "repo": "ukanhaupa/projx",
+      "repo": "levineam/lastXdays-skill",
       "path": "SKILL.md",
-      "url": "https://github.com/ukanhaupa/projx/blob/c05e176b370a5e877496b35dc38bb5de7d5910e2/SKILL.md",
+      "url": "https://github.com/levineam/lastXdays-skill/blob/3369fa88e7f05f72cdc7798223418513fbb1cb51/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "Projx \u2014 A CLI tool for scaffolding production-grade projects. Pick your stack (FastAPI, Fastify, React, Flutter), get a fully wired template with auth, database, CI/CD, and E2E tests. Update anytime when templates improve.",
-      "stars": 29
+      "description": "Claude Code skill for researching topics from the last X days (configurable time range). Based on last30days-skill by mvanhorn.",
+      "stars": 27
     },
     {
-      "repo": "cashubtc/cashu-skill",
+      "repo": "yishuai778/paper-reading",
       "path": "SKILL.md",
-      "url": "https://github.com/cashubtc/cashu-skill/blob/0e176227db2ef975d9940c79a6d4cf3f20b9213b/SKILL.md",
+      "url": "https://github.com/yishuai778/paper-reading/blob/0e63b0cb6f9e647df5523c2c305aff3a9e54472b/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "A Cashu wallet skill for AI agents",
+      "description": "\u4e00\u4e2a\u628a\u8bba\u6587\u4ee5ppt\u98ce\u683c\u7ed9\u4f60\u5168\u65b9\u4f4d\u8bb2\u900f\uff0c\u8fd8\u5e26\u4ea4\u4e92\u5f0f\u505a\u9898\u7406\u89e3\u7684skill",
       "stars": 24
     },
     {
-      "repo": "MapleOAO/xiao-zhu-nuonuo-skill",
+      "repo": "ThirdKeyAI/SchemaPin",
       "path": "SKILL.md",
-      "url": "https://github.com/MapleOAO/xiao-zhu-nuonuo-skill/blob/f62fe8ffd60db2dca7e258eef7f5d67d6010c146/SKILL.md",
+      "url": "https://github.com/ThirdKeyAI/SchemaPin/blob/740378ca710e0a3d09573f46c852f20bc1741d80/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "\u4e00\u4e2a\u84b8\u998f\u81ea 12 \u4e2a\u300c\u6700O\u5e7b\u60f3\u300d\u89c6\u9891\u7684 \u5c0f\u6731\u8bfa\u8bfa\u7684 Skill",
-      "stars": 23
+      "description": "The SchemaPin protocol for cryptographically signing and verifying AI agent tool schemas to prevent supply-chain attacks.",
+      "stars": 16
+    },
+    {
+      "repo": "diggiehippie/ai-audit-report",
+      "path": "SKILL.md",
+      "url": "https://github.com/diggiehippie/ai-audit-report/blob/2b168a50b57e8c102f5f16f69f6181535e9e4ff1/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "A Claude Code skill for AI consultants that conducts a structured 5-domain interview, auto-scores each domain 1\u20135, and generates a complete AI Readiness Audit Report with scorecard, findings, recommendations, effort/impact matrix, and 90-day roadmap.",
+      "stars": 16
+    },
+    {
+      "repo": "cathrynlavery/spend-optimizer",
+      "path": "SKILL.md",
+      "url": "https://github.com/cathrynlavery/spend-optimizer/blob/7986632a3b47d2ef7f6bd2565c5e26b5dc1dd693/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Audit subscriptions and optimize credit card rewards. Claude Code skill.",
+      "stars": 15
+    },
+    {
+      "repo": "debba/gaphunter-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/debba/gaphunter-skill/blob/77f53c4a1ea8400015d177429ff8ffdf7fc6f174/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Competitor review gap-analysis skill for Claude Code with rigid HTML reports, filters, and PDF export.",
+      "stars": 14
+    },
+    {
+      "repo": "Bobby-Gray/open-tabletop-gm",
+      "path": "SKILL.md",
+      "url": "https://github.com/Bobby-Gray/open-tabletop-gm/blob/60bc49325bffaf0ae85cc1d6e7debcda28ec9bb7/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as reference system \u2014 add any TTRPG via a system module.",
+      "stars": 14
     },
     {
       "repo": "win4r/mytest",
@@ -497,22 +341,113 @@
       "stars": 13
     },
     {
-      "repo": "tools-only/X-Skills",
-      "path": "development/076-api_84eb335f/skill.md",
-      "url": "https://github.com/tools-only/X-Skills/blob/d7cb4f72dc8ede1355cba9b9eac2a532013bb9b5/development/076-api_84eb335f/skill.md",
+      "repo": "oleg-koval/trembita",
+      "path": "SKILL.md",
+      "url": "https://github.com/oleg-koval/trembita/blob/0f7939f3f5f7677b48baf098d901a6b6f67b95bc/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": null,
-      "stars": 2
+      "description": "Small TypeScript ESM helper for third-party HTTP JSON APIs with a functional Result-based API",
+      "stars": 13
     },
     {
-      "repo": "Aashish-Dahal/flutter_bloc_skeleton",
+      "repo": "ercan-er/htmx-claude-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/ercan-er/htmx-claude-skill/blob/c2c86e1f00b612f60fb983eb3a21a3514f0b5e14/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Strict production-grade HTMX skill for Claude, Cursor & Codex. Enforces HTML-over-the-wire, server-driven UI, fragment architecture and anti-SPA best practices.",
+      "stars": 13
+    },
+    {
+      "repo": "mr-kelly/wxclaw2026",
+      "path": "SKILL.md",
+      "url": "https://github.com/mr-kelly/wxclaw2026/blob/9c3c9b10e86b7320d5d43dafa9a96bb97964927d/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "\ud83e\udde7 2026 \u5fae\u4fe1\u6625\u8282\u795d\u798f Skill for OpenClaw",
+      "stars": 12
+    },
+    {
+      "repo": "ouyangyipeng/AutoPaperBot",
+      "path": "SKILL.md",
+      "url": "https://github.com/ouyangyipeng/AutoPaperBot/blob/59191281c29043312eb9ff7f85c3b57d905a8848/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "\u81ea\u52a8\u8bba\u6587\u673a\uff01\u53c2\u8003\u4e86\u4e00\u4e9bAutoResearchClaw\u7684prompt\u5b9e\u73b0",
+      "stars": 12
+    },
+    {
+      "repo": "vitormiziara/saas-security",
+      "path": "SKILL.md",
+      "url": "https://github.com/vitormiziara/saas-security/blob/3dfa79f13dce4f9213dc6474d401a73ec63acb37/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Claude skill for SaaS security auditing \u2014 16 domains, 95 checks, OWASP-based",
+      "stars": 10
+    },
+    {
+      "repo": "chenxing9200/guren",
+      "path": "SKILL.md",
+      "url": "https://github.com/chenxing9200/guren/blob/36b8a8feb6dd7846a0af3847ae2898d46fcc8f0b/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "\u6545\u4eba Skill - \u4ee5\u901d\u8005\u7684\u53e3\u543b\u7ee7\u7eed\u966a\u4f34\uff0c\u57fa\u4e8e\u804a\u5929\u8bb0\u5f55\u91cd\u5efa\u4eba\u683c\u4e0e\u8bb0\u5fc6",
+      "stars": 8
+    },
+    {
+      "repo": "argonautsystems/InvestorClaw",
+      "path": "SKILL.md",
+      "url": "https://github.com/argonautsystems/InvestorClaw/blob/94fe2e18c383612e6f42187156eb84c44077a21f/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Portfolio analysis & market intelligence for Claude Code & OpenClaw. Deterministic Python math + Claude/OpenClaw synthesis. Educational guardrails, no investment advice.",
+      "stars": 8
+    },
+    {
+      "repo": "Dwsy/pi-extensions-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/Dwsy/pi-extensions-skill/blob/f37f413d9ba4d1c08e2212c91e7939ab17e061dc/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Progressive learning guide for Pi coding agent extensions",
+      "stars": 8
+    },
+    {
+      "repo": "readytowork-org/flutter_bloc_skeleton",
       "path": "SKIll.md",
-      "url": "https://github.com/Aashish-Dahal/flutter_bloc_skeleton/blob/7e9fc02d30d47297b3a5162265e9f532b3d8ea93/SKIll.md",
+      "url": "https://github.com/readytowork-org/flutter_bloc_skeleton/blob/324b40093be797719830877e1fba59536c79b32e/SKIll.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
@@ -536,29 +471,16 @@
       "stars": 1
     },
     {
-      "repo": "orhoncan/deep-study-skill",
-      "path": "skill.md",
-      "url": "https://github.com/orhoncan/deep-study-skill/blob/45dd4cc9adf9bc015e1c38d1aa5cf8641393aa14/skill.md",
+      "repo": "Geemal2004/Enterprise-Cargo-Monitoring-System",
+      "path": "SKILL.MD",
+      "url": "https://github.com/Geemal2004/Enterprise-Cargo-Monitoring-System/blob/d9fae185cc5366ac21a262980059020ec88423b1/SKILL.MD",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "A skill to create personalized study pipelines for selected topics.",
-      "stars": 1
-    },
-    {
-      "repo": "chihpao/dinner-picker",
-      "path": "Skill.MD",
-      "url": "https://github.com/chihpao/dinner-picker/blob/0217c599fe68ca0eb43e638039f622e8f8869684/Skill.MD",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\u5b5c\u4fdd\u8a02\u665a\u9910\u7528",
+      "description": null,
       "stars": 0
     },
     {
@@ -575,6 +497,19 @@
       "stars": 0
     },
     {
+      "repo": "zhuangharrison/ciyuan-news",
+      "path": "skill.md",
+      "url": "https://github.com/zhuangharrison/ciyuan-news/blob/f915b9f8cc968241357301e1e7e706ed71338cda/skill.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "ciyuan\u8d44\u6599\u5e93",
+      "stars": 0
+    },
+    {
       "repo": "BanquetKuma/stepfunctions-visualizer",
       "path": "skill.md",
       "url": "https://github.com/BanquetKuma/stepfunctions-visualizer/blob/dcc64a36609f8aff511c122e30128d2e432c205c/skill.md",
@@ -588,19 +523,6 @@
       "stars": 0
     },
     {
-      "repo": "leomercier/trace",
-      "path": "skill.md",
-      "url": "https://github.com/leomercier/trace/blob/c6b5ec51f296d37edc47b488851158238f5b9aa6/skill.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "tracable is the open-source design and prototyping tool that exposes structure and logic, so teams can build better products.",
-      "stars": 0
-    },
-    {
       "repo": "Howell5/graphify-ts",
       "path": "skill.md",
       "url": "https://github.com/Howell5/graphify-ts/blob/0e55a26130e7490a6efac34418b03202bf0db932/skill.md",
@@ -611,6 +533,19 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Code navigation layer for AI agents. AST extraction from 12 languages via tree-sitter WASM, queryable knowledge graph, incremental updates.",
+      "stars": 0
+    },
+    {
+      "repo": "RizkyAprianto/ITSM-Open-Ticket",
+      "path": "skill.md",
+      "url": "https://github.com/RizkyAprianto/ITSM-Open-Ticket/blob/55a10b987b9cc39a5268da4b99c5f89f323ee1c4/skill.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": null,
       "stars": 0
     },
     {
@@ -640,6 +575,32 @@
       "stars": 0
     },
     {
+      "repo": "Aritra003/nyayamitra-stellar-agents",
+      "path": "skill.md",
+      "url": "https://github.com/Aritra003/nyayamitra-stellar-agents/blob/9f3e81d037a2a7b9877ba1c2a9400f4220de063b/skill.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "NyayaMitra AI \u2014 Legal Intelligence MCP Network on Stellar x402 | Stellar Hacks: Agents 2026",
+      "stars": 0
+    },
+    {
+      "repo": "tkzzzzzz6/baoyan-info-tracker",
+      "path": "skill.md",
+      "url": "https://github.com/tkzzzzzz6/baoyan-info-tracker/blob/30ecfed0e69d283c367ac0972909ebc31bfa2d86/skill.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": null,
+      "stars": 0
+    },
+    {
       "repo": "CafeIT25/dev-tools",
       "path": "skill.md",
       "url": "https://github.com/CafeIT25/dev-tools/blob/7868e002ba86a6bc979010d41baeb0e1c8b26c4a/skill.md",
@@ -666,32 +627,6 @@
       "stars": 0
     },
     {
-      "repo": "tobiawolaju/if-then",
-      "path": "skill.md",
-      "url": "https://github.com/tobiawolaju/if-then/blob/6503494fe7eaddac30bd2f51310faae09c28f193/skill.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "A project to stop me from procrastinating",
-      "stars": 0
-    },
-    {
-      "repo": "TuVon010/hostpot_mec",
-      "path": "skill.md",
-      "url": "https://github.com/TuVon010/hostpot_mec/blob/590716c515394a1a82380b7666e1414696238c2d/skill.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\u70ed\u70b9\u7684\u8fb9\u7f18\u8ba1\u7b97\u4efb\u52a1\u5378\u8f7d\u8d44\u6e90\u5206\u914d\u8f68\u8ff9\u89c4\u5212",
-      "stars": 0
-    },
-    {
       "repo": "digitalmickeylee-sys/auto-dream",
       "path": "skill.md",
       "url": "https://github.com/digitalmickeylee-sys/auto-dream/blob/fae5363a013a3234f5ec2ad081fcca0ae03b0364/skill.md",
@@ -705,9 +640,9 @@
       "stars": 0
     },
     {
-      "repo": "DaneshSelwal/physics-informed-CWGAN-ground-motion",
+      "repo": "yoniLavi/world-building-cms",
       "path": "skill.md",
-      "url": "https://github.com/DaneshSelwal/physics-informed-CWGAN-ground-motion/blob/00d36b1d17a5e1885994c1230b7a8b6460a0b00e/skill.md",
+      "url": "https://github.com/yoniLavi/world-building-cms/blob/a656c7e3f9303b0c16798ed3614fecbcd747da18/skill.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
@@ -718,30 +653,30 @@
       "stars": 0
     },
     {
-      "repo": "Lawliet2004/Speech-emotion-Detector",
-      "path": "skill.md",
-      "url": "https://github.com/Lawliet2004/Speech-emotion-Detector/blob/670ae40b11de77d2a687a59598d372f528567403/skill.md",
-      "score": 97,
-      "grade": "A+",
+      "repo": "FDU-INS/Insurance-Skills",
+      "path": "Skills/scan-organizer/SKILL.md",
+      "url": "https://github.com/FDU-INS/Insurance-Skills/blob/1f8d2e988a3db744c5b603589f449dc51a9ff718/Skills/scan-organizer/SKILL.md",
+      "score": 96,
+      "grade": "A",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
-      "security_findings": 0,
+      "security_findings": 1,
       "description": null,
-      "stars": 0
+      "stars": 49
     },
     {
-      "repo": "youto720/pat",
-      "path": "skill.md",
-      "url": "https://github.com/youto720/pat/blob/fc601ca95c7d0482d2b3afbec4d18e090817b16a/skill.md",
-      "score": 97,
-      "grade": "A+",
+      "repo": "cameronehrlich/apple-search-ads-cli",
+      "path": "SKILL.md",
+      "url": "https://github.com/cameronehrlich/apple-search-ads-cli/blob/9999599a792d26ba694c145f7dbfae2afecc673d/SKILL.md",
+      "score": 96,
+      "grade": "A",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
-      "security_findings": 0,
-      "description": null,
-      "stars": 0
+      "security_findings": 1,
+      "description": "The missing CLI for Apple Search Ads. Manage campaigns, keywords, and reporting using Apple's 4-campaign structure.",
+      "stars": 15
     },
     {
       "repo": "Johnny1110/pgagent",
@@ -757,43 +692,17 @@
       "stars": 0
     },
     {
-      "repo": "mryan-3/hng-insighta-backend",
-      "path": "skill.md",
-      "url": "https://github.com/mryan-3/hng-insighta-backend/blob/8185486ebe435e53767e3d2298295d4d39a9b093/skill.md",
-      "score": 96,
-      "grade": "A",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 1,
-      "description": null,
-      "stars": 0
-    },
-    {
-      "repo": "vitorpamplona/amethyst",
-      "path": "SKILL.md",
-      "url": "https://github.com/vitorpamplona/amethyst/blob/89c711ca9fa913c690cd26ab3885d9203131803c/SKILL.md",
-      "score": 95,
-      "grade": "A",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 2,
-      "description": "Nostr client for Android",
-      "stars": 1521
-    },
-    {
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills/development/chrome-debug/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/development/chrome-debug/SKILL.md",
+      "repo": "LeoYeAI/openclaw-master-skills",
+      "path": "skills/bettafish-opinion-analysis/SKILL.md",
+      "url": "https://github.com/LeoYeAI/openclaw-master-skills/blob/4b56ed5f513856007d8545bd6f1dda1327777d75/skills/bettafish-opinion-analysis/SKILL.md",
       "score": 94,
       "grade": "A",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 1,
-      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
+      "description": "\ud83e\udde0 Curated collection of 1209+ best OpenClaw skills \u2014 weekly updated by MyClaw.ai",
+      "stars": 1997
     },
     {
       "repo": "ParthJadhav/ios-marketing-capture",
@@ -806,20 +715,33 @@
       "lint_warnings": 1,
       "security_findings": 1,
       "description": "Automate Multi-Locale asset creation for your iOS app.",
-      "stars": 237
+      "stars": 240
     },
     {
-      "repo": "XiaoMaColtAI/BettaFish-skill",
+      "repo": "krispuckett/skill-issue",
       "path": "SKILL.md",
-      "url": "https://github.com/XiaoMaColtAI/BettaFish-skill/blob/cf011bf82d44024349310b379d9020383093c573/SKILL.md",
+      "url": "https://github.com/krispuckett/skill-issue/blob/2f8b4af1a8e3d49b4fcd077ee55782a8f4e0f8d3/SKILL.md",
       "score": 94,
       "grade": "A",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 1,
-      "description": "BettaFish-skill\uff1a\u6539\u9020\u81eaBettaFish\uff08\u5fae\u8206\uff09\uff0c\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u53ef\u4ee5\u7528\u5728Claude Code\u3001OpenClaw\u3001Cursor\u7b49\u652f\u6301Skills\u7684Agent\u4e2d\uff0c\u66f4\u65b9\u4fbf\u4f7f\u7528",
-      "stars": 46
+      "description": "\ud83d\udd0d A Claude Code skill that audits all your other skills. HR department for AI agents.",
+      "stars": 23
+    },
+    {
+      "repo": "CG-man/wechat-opencode",
+      "path": "SKILL.md",
+      "url": "https://github.com/CG-man/wechat-opencode/blob/ebe9f00ef3e5f1ccaea214925da79c580f88113a/SKILL.md",
+      "score": 94,
+      "grade": "A",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 1,
+      "description": null,
+      "stars": 20
     },
     {
       "repo": "revengerrr/clawdsign",
@@ -835,19 +757,6 @@
       "stars": 2
     },
     {
-      "repo": "alexanderchan/cli-skill",
-      "path": "skill.md",
-      "url": "https://github.com/alexanderchan/cli-skill/blob/bf4ea1bdc1159e56e4b0b7ca4174ae7a9f6d44d5/skill.md",
-      "score": 94,
-      "grade": "A",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 1,
-      "description": "Creating a ts or go cli skill",
-      "stars": 0
-    },
-    {
       "repo": "wrode/flow-diagram",
       "path": "skill.md",
       "url": "https://github.com/wrode/flow-diagram/blob/654b83350db72f0b495d1bc85db35c61fc3911f1/skill.md",
@@ -858,6 +767,19 @@
       "lint_warnings": 1,
       "security_findings": 1,
       "description": "Claude Code skill that traces data flow through codebases and produces interactive HTML diagrams",
+      "stars": 1
+    },
+    {
+      "repo": "alexanderchan/cli-skill",
+      "path": "skill.md",
+      "url": "https://github.com/alexanderchan/cli-skill/blob/bf4ea1bdc1159e56e4b0b7ca4174ae7a9f6d44d5/skill.md",
+      "score": 94,
+      "grade": "A",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 1,
+      "description": "Creating a ts or go cli skill",
       "stars": 0
     },
     {
@@ -874,43 +796,17 @@
       "stars": 0
     },
     {
-      "repo": "mangas/mcpfile",
-      "path": "skill.md",
-      "url": "https://github.com/mangas/mcpfile/blob/57a83588425d0a23d921c1eb220fc9c7f98fa6b0/skill.md",
-      "score": 93,
-      "grade": "A",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 2,
-      "description": null,
-      "stars": 0
-    },
-    {
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills/other/other/personal-finance-skill/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/other/other/personal-finance-skill/SKILL.md",
-      "score": 91,
-      "grade": "A-",
-      "color": "green",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 2,
-      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
-    },
-    {
-      "repo": "KimYx0207/SkillSemgrep",
+      "repo": "goldengrape/vibe-coding-skill",
       "path": "SKILL.md",
-      "url": "https://github.com/KimYx0207/SkillSemgrep/blob/eb6dd5127f5dedc325b9364edf71a2034e5e35b1/SKILL.md",
-      "score": 91,
+      "url": "https://github.com/goldengrape/vibe-coding-skill/blob/5fcf9e00baea74abd64748e584876bd2c21c515f/SKILL.md",
+      "score": 92,
       "grade": "A-",
       "color": "green",
       "lint_errors": 0,
       "lint_warnings": 1,
-      "security_findings": 2,
-      "description": "Claude Code\u5b89\u5168\u626b\u63cfSkill\uff1a\u8bf4\u53e5\u4e2d\u6587\u5c31\u80fd\u626b\u6f0f\u6d1e\uff0c\u57fa\u4e8eSemgrep | Security scanning skill for Claude Code, powered by Semgrep",
-      "stars": 25
+      "security_findings": 3,
+      "description": null,
+      "stars": 8
     },
     {
       "repo": "ankushKun/pumpmyclaw",
@@ -939,19 +835,6 @@
       "stars": 3
     },
     {
-      "repo": "WithAutonomi/ant-sdk",
-      "path": "skill.md",
-      "url": "https://github.com/WithAutonomi/ant-sdk/blob/529280c32c024c92b68436abb6ace956c8da66ba/skill.md",
-      "score": 91,
-      "grade": "A-",
-      "color": "green",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 2,
-      "description": null,
-      "stars": 1
-    },
-    {
       "repo": "Piyush-Goenka/Clawd",
       "path": "Skill.md",
       "url": "https://github.com/Piyush-Goenka/Clawd/blob/9bbb601674e4627c0810c0b12a406ea29c639237/Skill.md",
@@ -965,19 +848,6 @@
       "stars": 0
     },
     {
-      "repo": "docmancer/docmancer",
-      "path": "SKILL.md",
-      "url": "https://github.com/docmancer/docmancer/blob/566bfd5f6888297d3f955b70496a220773370e5b/SKILL.md",
-      "score": 88,
-      "grade": "B+",
-      "color": "green",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 3,
-      "description": "Give your AI coding agents documentation superpowers. Fetch, embed, and query any public docs locally.",
-      "stars": 90
-    },
-    {
       "repo": "jiji262/wechat-publisher",
       "path": "SKILL.md",
       "url": "https://github.com/jiji262/wechat-publisher/blob/39459f09e72130a9acdd95eb8a0f02b348eefe20/SKILL.md",
@@ -988,7 +858,33 @@
       "lint_warnings": 1,
       "security_findings": 3,
       "description": "\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u81ea\u52a8\u521b\u4f5c\u4e0e\u53d1\u5e03\u5de5\u5177 - WeChat Official Account article auto-creation and publishing tool",
-      "stars": 64
+      "stars": 68
+    },
+    {
+      "repo": "backnotprop/oss-security-audit",
+      "path": "SKILL.md",
+      "url": "https://github.com/backnotprop/oss-security-audit/blob/c47425a872d9f8dcfc64b43bc734bbd3555e1801/SKILL.md",
+      "score": 88,
+      "grade": "B+",
+      "color": "green",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 3,
+      "description": null,
+      "stars": 17
+    },
+    {
+      "repo": "neojarvis0704/azure-image-gen",
+      "path": "skill.md",
+      "url": "https://github.com/neojarvis0704/azure-image-gen/blob/9a0fda72b933bca729544cbb9df3e222451b832a/skill.md",
+      "score": 88,
+      "grade": "B+",
+      "color": "green",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 3,
+      "description": null,
+      "stars": 0
     },
     {
       "repo": "bluvoinc/sdk",
@@ -1004,6 +900,19 @@
       "stars": 6
     },
     {
+      "repo": "radrhm/portopt",
+      "path": "skill.md",
+      "url": "https://github.com/radrhm/portopt/blob/c2216280878de19d929ad5360e910293285a55b3/skill.md",
+      "score": 85,
+      "grade": "B",
+      "color": "yellowgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 4,
+      "description": "Equity portfolio optimizer",
+      "stars": 0
+    },
+    {
       "repo": "CTCT-CT2/openclaw-security-watchdog",
       "path": "SKILL.md",
       "url": "https://github.com/CTCT-CT2/openclaw-security-watchdog/blob/760731f603ec739412ec52afb98f0571cddf53a1/SKILL.md",
@@ -1015,19 +924,6 @@
       "security_findings": 3,
       "description": "OpenClaw \u5b89\u5168\u5de1\u68c0\u5de5\u5177\uff0c\u4e00\u952e\u6267\u884c\u7cfb\u7edf\u5b89\u5168\u626b\u63cf\u5e76\u751f\u6210\u901a\u4fd7\u6613\u61c2\u7684\u62a5\u544a\u3002 \u4f7f\u7528\u573a\u666f\uff1a\u7528\u6237\u8bf4\"\u5b89\u5168\u5de1\u68c0\"\u3001\"\u5b89\u5168\u68c0\u67e5\"\u3001\"\u5b89\u5168\u5ba1\u8ba1\"\u3001\"\u5de1\u68c0\"\u3001\"security audit\"\u3001\"\u68c0\u67e5\u5b89\u5168\"\u3001\"\u7cfb\u7edf\u5b89\u5168\"\u7b49\u3002 \u89e6\u53d1\u6761\u4ef6\uff1a\u4efb\u4f55\u4e0e OpenClaw \u5b89\u5168\u68c0\u6d4b\u3001\u5ba1\u8ba1\u3001\u5de1\u68c0\u76f8\u5173\u7684\u8bf7\u6c42\u3002",
       "stars": 352
-    },
-    {
-      "repo": "joinmassive/clawpod",
-      "path": "SKILL.md",
-      "url": "https://github.com/joinmassive/clawpod/blob/7e900790a79529c36ee2a06d807ebd74be3ef07d/SKILL.md",
-      "score": 82,
-      "grade": "B-",
-      "color": "yellowgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 5,
-      "description": "OpenClaw skill that works with Massive proxy network",
-      "stars": 73
     },
     {
       "repo": "ponyflash/ponyflash-skill",
@@ -1043,17 +939,17 @@
       "stars": 33
     },
     {
-      "repo": "FeeiCN/slide-writer",
+      "repo": "Louismao8888/girlfriends-skill",
       "path": "SKILL.md",
-      "url": "https://github.com/FeeiCN/slide-writer/blob/3c4524c4abb3310fdee106282d0a64f156fd4ff6/SKILL.md",
+      "url": "https://github.com/Louismao8888/girlfriends-skill/blob/7e82e86251763f6c6d3b43f15c534ddf5b27be87/SKILL.md",
       "score": 82,
       "grade": "B-",
       "color": "yellowgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 1,
-      "description": "  A slide-writing skill for generating enterprise HTML presentations from ideas, outlines, documents, and speech drafts.",
-      "stars": 32
+      "description": "\u628a\u5bf9\u8c61\u84b8\u998f\u6210 Claude Code Skill\u3002\u5bfc\u5165\u5fae\u4fe1/QQ \u804a\u5929\u8bb0\u5f55\u3001\u7167\u7247\u3001\u670b\u53cb\u5708\uff0c\u751f\u6210\u53ef\u8fd0\u884c\u7684\u5173\u7cfb\u8bb0\u5fc6 + \u4eba\u7269\u6027\u683c\uff0c\u652f\u6301\u6301\u7eed\u8fdb\u5316\u3002",
+      "stars": 7
     },
     {
       "repo": "BellerNiklas/Replication-Comunale-Ngyuen-2025-MEU-",
@@ -1071,7 +967,7 @@
     {
       "repo": "majiayu000/claude-skill-registry",
       "path": "skills/data/whisper-transcribe/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/data/whisper-transcribe/SKILL.md",
+      "url": "https://github.com/majiayu000/claude-skill-registry/blob/2c97748f649859109114cf84e50d473705e3a1a5/skills/data/whisper-transcribe/SKILL.md",
       "score": 81,
       "grade": "B-",
       "color": "yellowgreen",
@@ -1079,46 +975,33 @@
       "lint_warnings": 1,
       "security_findings": 2,
       "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
+      "stars": 337
     },
     {
-      "repo": "techatron66/IR-S_rev3",
-      "path": "skill.md",
-      "url": "https://github.com/techatron66/IR-S_rev3/blob/30e8bc6342294d30b91dc1a502bc424f328df0eb/skill.md",
+      "repo": "crazygit/kube-audit-kit",
+      "path": "SKILL.md",
+      "url": "https://github.com/crazygit/kube-audit-kit/blob/e9f9adaff1d96b11197b05678db912696eed92f3/SKILL.md",
       "score": 81,
       "grade": "B-",
       "color": "yellowgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 6,
-      "description": "automated attendance system version3",
-      "stars": 0
+      "description": "A Claude Code Skill for non-intrusive security audits of Kubernetes clusters.",
+      "stars": 29
     },
     {
-      "repo": "OrangeViolin/content-pipeline",
+      "repo": "JiangJingC/claude-to-im-plus",
       "path": "SKILL.md",
-      "url": "https://github.com/OrangeViolin/content-pipeline/blob/976283c66d35338527a580f13edae15bb8dc9b49/SKILL.md",
-      "score": 76,
-      "grade": "C",
+      "url": "https://github.com/JiangJingC/claude-to-im-plus/blob/13c5c698e483ad49b06aedbb05f1a50c39689cbe/SKILL.md",
+      "score": 79,
+      "grade": "C+",
       "color": "yellow",
       "lint_errors": 0,
       "lint_warnings": 1,
-      "security_findings": 3,
-      "description": "AI-powered content production pipeline for creators. One prompt \u2192 multi-platform publishing. Claude Code Skill.",
-      "stars": 158
-    },
-    {
-      "repo": "udayanwalvekar/clearshot",
-      "path": "SKILL.md",
-      "url": "https://github.com/udayanwalvekar/clearshot/blob/6305f3e41cd7129a4129beb4f57c58cae08ec5fb/SKILL.md",
-      "score": 76,
-      "grade": "C",
-      "color": "yellow",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 3,
-      "description": "\ud83d\udcf8 Structured screenshot intelligence for AI coding tools. Give your AI X-ray vision for UI screenshots.",
-      "stars": 129
+      "security_findings": 6,
+      "description": "Claude-to-IM Plus: bridge Claude Code and Codex sessions to IM platforms",
+      "stars": 11
     },
     {
       "repo": "migkapa/chatkit-skill",
@@ -1134,6 +1017,19 @@
       "stars": 0
     },
     {
+      "repo": "wangyitong0730-cyber/Terminal-Theme",
+      "path": "SKILL.md",
+      "url": "https://github.com/wangyitong0730-cyber/Terminal-Theme/blob/e67e437256e5a25f3eaab987fea9cb740afa0c19/SKILL.md",
+      "score": 72,
+      "grade": "C-",
+      "color": "orange",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 5,
+      "description": "Every terminal window, a different color \u2014 zero-config theme rotation with 8 beautiful palettes",
+      "stars": 6
+    },
+    {
       "repo": "semaes111/PROYECTO-SKILLS",
       "path": "03-SKILLS-BACKEND/stack-nexthorizont-nextjs-supabase-SKILL.md",
       "url": "https://github.com/semaes111/PROYECTO-SKILLS/blob/439bfa41272a22e8acd2befe0e803245bbb9240c/03-SKILLS-BACKEND/stack-nexthorizont-nextjs-supabase-SKILL.md",
@@ -1147,17 +1043,30 @@
       "stars": 0
     },
     {
-      "repo": "majiayu000/claude-skill-registry",
-      "path": "skills/other/codediary/SKILL.md",
-      "url": "https://github.com/majiayu000/claude-skill-registry/blob/fc98f4ec9f4271ca0e1e19f5b4e7951c10d984cf/skills/other/codediary/SKILL.md",
-      "score": 55,
+      "repo": "citedy/citedy-seo-agent",
+      "path": "SKILL.md",
+      "url": "https://github.com/citedy/citedy-seo-agent/blob/5dcb31ddb4559b3fb4f024ae61261d150c7d8651/SKILL.md",
+      "score": 57,
       "grade": "F",
       "color": "red",
       "lint_errors": 0,
-      "lint_warnings": 2,
-      "security_findings": 4,
-      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
-      "stars": 295
+      "lint_warnings": 1,
+      "security_findings": 6,
+      "description": "AI-powered SEO content automation agent skill \u2014 trend scouting, competitor analysis, article generation in 55 languages, social media adaptations, and cron-based sessions.",
+      "stars": 13
+    },
+    {
+      "repo": "wycks/Python-Moltbook-Bot",
+      "path": "skill.md",
+      "url": "https://github.com/wycks/Python-Moltbook-Bot/blob/db76b0645cb448aa92867a4f3f517f8b658d2bc6/skill.md",
+      "score": 0,
+      "grade": "F",
+      "color": "red",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 89,
+      "description": "A MoltBot",
+      "stars": 0
     }
   ]
 }
