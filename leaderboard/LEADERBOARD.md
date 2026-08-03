@@ -1,36 +1,36 @@
 # SkillForge Public Skills Leaderboard
 
-Auto-generated weekly. Last update: **2026-07-27 14:48 UTC**.
+Auto-generated weekly. Last update: **2026-08-03 14:51 UTC**.
 
 Ranking 25 of 89 SKILL.md files discovered on GitHub, graded by [SkillForge](https://github.com/LiqunChen0606/skillforge).
 
 | # | Grade | Score | Repository | Stars | Security |
 | - | ----- | ----- | ---------- | ----- | -------- |
-| 1 | **A+** | 97/100 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill/blob/bdd7f863d4450bf0e2fac84579ad6b45cfdfa25c/SKILL.md) | 2,301 | clean |
-| 2 | **A+** | 97/100 | [autoclaw-cc/xiaohongshu-skills](https://github.com/autoclaw-cc/xiaohongshu-skills/blob/b043748282a57e347c52f517dfb59819121134ab/SKILL.md) | 1,699 | clean |
-| 3 | **A+** | 97/100 | [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill/blob/14dc0e6d603f39df279ebfa2734e4c566ffac4c3/SKILL.md) | 828 | clean |
-| 4 | **A+** | 97/100 | [microprediction/precise](https://github.com/microprediction/precise/blob/d89c883e91138546a785c7c1a81c0eba5433b2f4/SKILL.md) | 333 | clean |
-| 5 | **A+** | 97/100 | [xiongqi123123/awesome-rebuttal](https://github.com/xiongqi123123/awesome-rebuttal/blob/3434455fb2460b85793b4e3082bd28bf86ff7323/SKILL.md) | 294 | clean |
-| 6 | **A+** | 97/100 | [0xquqi/sun-skill](https://github.com/0xquqi/sun-skill/blob/f34609682095665e37d283bd6fdf6e0c2fceb492/SKILL.md) | 237 | clean |
-| 7 | **A+** | 97/100 | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill/blob/259e452ef6f6c2bfdbe30368f7c85bc683fe1949/SKILL.md) | 217 | clean |
-| 8 | **A+** | 97/100 | [assafkip/research-mode](https://github.com/assafkip/research-mode/blob/fbf5e50f672012ad2bbaddf30a6440a9528a6aed/SKILL.md) | 147 | clean |
-| 9 | **A+** | 97/100 | [tinyhumansai/tiny.place](https://github.com/tinyhumansai/tiny.place/blob/20e8c7ec9b48648382b7c912ac0906cee08ce3ea/SKILL.md) | 139 | clean |
-| 10 | **A+** | 97/100 | [coinluu/resume-jd-optimizer-cn](https://github.com/coinluu/resume-jd-optimizer-cn/blob/114c85c32dc77bc9ec7315976a21a1f761868664/SKILL.md) | 139 | clean |
-| 11 | **A+** | 97/100 | [TammyTan516/relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill/blob/1ab2334934bcff24596552de091882026173d190/SKILL.md) | 110 | clean |
-| 12 | **A+** | 97/100 | [clockless-org/html-anything](https://github.com/clockless-org/html-anything/blob/1896831a62670eed7424b8f8e37e56c66cbf2351/SKILL.md) | 106 | clean |
-| 13 | **A+** | 97/100 | [IanShaw027/wemp-operator](https://github.com/IanShaw027/wemp-operator/blob/7574534715edf5423b258beb12a2dc63372f8c2a/SKILL.md) | 105 | clean |
-| 14 | **A+** | 97/100 | [forter/agentic-readiness-guide](https://github.com/forter/agentic-readiness-guide/blob/dacc2105d17566b885a9417e929f71007e7669c0/SKILL.md) | 104 | clean |
-| 15 | **A+** | 97/100 | [maquina-app/rails-upgrade-skill](https://github.com/maquina-app/rails-upgrade-skill/blob/19e52a677c723a9f165b3611b85035e0cff37cf6/SKILL.md) | 82 | clean |
-| 16 | **A+** | 97/100 | [petar-nauka/fact-check-skill](https://github.com/petar-nauka/fact-check-skill/blob/ebfde09a28b5547cbed29f5f66ddfd3595e64ade/SKILL.md) | 69 | clean |
-| 17 | **A+** | 97/100 | [Niceck/hhxg-top-hhxg-python](https://github.com/Niceck/hhxg-top-hhxg-python/blob/381d2c3f54af7e7f7b112d42b35faadf7f56342e/SKILL.md) | 68 | clean |
-| 18 | **A+** | 97/100 | [Youchu-lawhub/gutachten-civil-case](https://github.com/Youchu-lawhub/gutachten-civil-case/blob/a07f166ae16c35065c4d077370c730e30fca7589/SKILL.md) | 62 | clean |
-| 19 | **A+** | 97/100 | [naoterumaker/japan-gyousei-data](https://github.com/naoterumaker/japan-gyousei-data/blob/5658a5f554f751d209e10a47f90662b39c0eb818/SKILL.md) | 53 | clean |
-| 20 | **A+** | 97/100 | [c-narcissus/research-paper-figure-skill-factory](https://github.com/c-narcissus/research-paper-figure-skill-factory/blob/b9cc581e647f5687959af09ace033f8247517e6f/SKILL.md) | 46 | clean |
-| 21 | **A+** | 97/100 | [cangtianhuang/humanizer-academic-zh](https://github.com/cangtianhuang/humanizer-academic-zh/blob/9a30ac38200692916efae5e5128273def2099ae6/SKILL.md) | 44 | clean |
-| 22 | **A+** | 97/100 | [FahrenheitResearch/hermes-weather-plugin](https://github.com/FahrenheitResearch/hermes-weather-plugin/blob/d474493ef4ffeefabad9dbf0188f72bce3b47b67/skill.md) | 42 | clean |
-| 23 | **A+** | 97/100 | [KingJing1/podcast-transcript-txt-skill](https://github.com/KingJing1/podcast-transcript-txt-skill/blob/e93217bfe1994017764eafac124e2c425debff35/SKILL.md) | 37 | clean |
-| 24 | **A+** | 97/100 | [chentao326/teacher-skill](https://github.com/chentao326/teacher-skill/blob/86056ac80f9e5f80c1e965a0de7e358ca54f4bdc/SKILL.md) | 34 | clean |
-| 25 | **A+** | 97/100 | [qingshanliuci/cnki-aigc---skill](https://github.com/qingshanliuci/cnki-aigc---skill/blob/8d69669a7e5289ca2c73e7aed79032ef955f39b3/SKILL.md) | 33 | clean |
+| 1 | **A+** | 97/100 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill/blob/bdd7f863d4450bf0e2fac84579ad6b45cfdfa25c/SKILL.md) | 2,347 | clean |
+| 2 | **A+** | 97/100 | [autoclaw-cc/xiaohongshu-skills](https://github.com/autoclaw-cc/xiaohongshu-skills/blob/b043748282a57e347c52f517dfb59819121134ab/SKILL.md) | 1,723 | clean |
+| 3 | **A+** | 97/100 | [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill/blob/cde1835067660ad6748393127e56af4e683bfbe7/SKILL.md) | 827 | clean |
+| 4 | **A+** | 97/100 | [xiaopu-ai/web-design](https://github.com/xiaopu-ai/web-design/blob/22a4f482cc4caa2394391c0c31ff0aefd1908774/SKILL.md) | 603 | clean |
+| 5 | **A+** | 97/100 | [TongmingLAIC/AKO4ALL](https://github.com/TongmingLAIC/AKO4ALL/blob/767175ef4e7d4ac37fe4e245a2fc560c8ca2c339/SKILL.md) | 338 | clean |
+| 6 | **A+** | 97/100 | [microprediction/precise](https://github.com/microprediction/precise/blob/d89c883e91138546a785c7c1a81c0eba5433b2f4/SKILL.md) | 333 | clean |
+| 7 | **A+** | 97/100 | [xiongqi123123/awesome-rebuttal](https://github.com/xiongqi123123/awesome-rebuttal/blob/3434455fb2460b85793b4e3082bd28bf86ff7323/SKILL.md) | 298 | clean |
+| 8 | **A+** | 97/100 | [0xquqi/sun-skill](https://github.com/0xquqi/sun-skill/blob/f34609682095665e37d283bd6fdf6e0c2fceb492/SKILL.md) | 239 | clean |
+| 9 | **A+** | 97/100 | [haloshin/ip-diagram-creator](https://github.com/haloshin/ip-diagram-creator/blob/dd64ab5d972893f7ca271d9c560362d7788eb2d6/SKILL.md) | 230 | clean |
+| 10 | **A+** | 97/100 | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill/blob/259e452ef6f6c2bfdbe30368f7c85bc683fe1949/SKILL.md) | 221 | clean |
+| 11 | **A+** | 97/100 | [CSlawyer1985/contract-review-pro](https://github.com/CSlawyer1985/contract-review-pro/blob/6d929befb22d42b092b08276c1ac38e3730340e7/SKILL.md) | 211 | clean |
+| 12 | **A+** | 97/100 | [Hao0321/ai-media-generator](https://github.com/Hao0321/ai-media-generator/blob/0444a9392e094c47e8ee4300acb3a37f87c3c60a/SKILL.md) | 174 | clean |
+| 13 | **A+** | 97/100 | [FrankS-IntelLab/agentic-kaggle-skill](https://github.com/FrankS-IntelLab/agentic-kaggle-skill/blob/f07e4fa5434807fb4ca5bb8090800793020e9e2c/SKILL.md) | 157 | clean |
+| 14 | **A+** | 97/100 | [coinluu/resume-jd-optimizer-cn](https://github.com/coinluu/resume-jd-optimizer-cn/blob/114c85c32dc77bc9ec7315976a21a1f761868664/SKILL.md) | 150 | clean |
+| 15 | **A+** | 97/100 | [assafkip/research-mode](https://github.com/assafkip/research-mode/blob/fbf5e50f672012ad2bbaddf30a6440a9528a6aed/SKILL.md) | 148 | clean |
+| 16 | **A+** | 97/100 | [ZadAnthony/serenity-skill](https://github.com/ZadAnthony/serenity-skill/blob/ab7fb2ce817a5cdb6f9c046ed40d1a1d2e343742/SKILL.md) | 146 | clean |
+| 17 | **A+** | 97/100 | [amanning3390/deepswarm](https://github.com/amanning3390/deepswarm/blob/614d635bc06f643f150d58d07c1beb823a5f3dad/SKILL.md) | 121 | clean |
+| 18 | **A+** | 97/100 | [zy-zmc/tianming-skill](https://github.com/zy-zmc/tianming-skill/blob/b5ef6e30817e086022ecbd09f9c2d2e781dd8b43/SKILL.md) | 120 | clean |
+| 19 | **A+** | 97/100 | [clockless-org/html-anything](https://github.com/clockless-org/html-anything/blob/1896831a62670eed7424b8f8e37e56c66cbf2351/SKILL.md) | 117 | clean |
+| 20 | **A+** | 97/100 | [TammyTan516/relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill/blob/1ab2334934bcff24596552de091882026173d190/SKILL.md) | 112 | clean |
+| 21 | **A+** | 97/100 | [forter/agentic-readiness-guide](https://github.com/forter/agentic-readiness-guide/blob/dacc2105d17566b885a9417e929f71007e7669c0/SKILL.md) | 106 | clean |
+| 22 | **A+** | 97/100 | [IanShaw027/wemp-operator](https://github.com/IanShaw027/wemp-operator/blob/7574534715edf5423b258beb12a2dc63372f8c2a/SKILL.md) | 105 | clean |
+| 23 | **A+** | 97/100 | [SemineChen/yueban-image-to-code](https://github.com/SemineChen/yueban-image-to-code/blob/e9f2e8ae66964083abc8481ff1e6a458359107f1/SKILL.md) | 99 | clean |
+| 24 | **A+** | 97/100 | [WPeace-HcH/WPeGPT-Analyzer](https://github.com/WPeace-HcH/WPeGPT-Analyzer/blob/a6b2488c5e7da47890a82d0f8534ac364de34b31/SKILL.md) | 84 | clean |
+| 25 | **A+** | 97/100 | [mitkox/megacode](https://github.com/mitkox/megacode/blob/41d1ce2259c1cab03e6a050d716ca8b04b47d156/SKILL.md) | 77 | clean |
 
 ## Methodology
 
