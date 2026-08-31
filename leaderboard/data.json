@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24 13:00 UTC",
+  "generated_at": "2026-08-31 19:00 UTC",
   "total_graded": 90,
   "skills": [
     {
       "repo": "brycewang-stanford/Auto-Empirical-Research-Skills",
       "path": "SKILL.md",
-      "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/blob/692e9fa3fea40bbdf614584d461851f8fb968ac2/SKILL.md",
+      "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/blob/70999c9fd82f1f05b46b67e1ea0bf5aba4448a0e/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
@@ -13,7 +13,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\ud83d\udd2c A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | \u7cbe\u9009 23,000+ AI Agent \u6280\u80fd\u5e93\uff0c\u8986\u76d68\u5927\u793e\u4f1a\u79d1\u5b66\u5b66\u79d1\u7684\u5b9e\u8bc1\u7814\u7a76\u3002CoPaper.AI 20\u5206\u949f\u5b8c\u6210\u4e00\u7bc7\u53ef\u590d\u73b0\u7684\u89c4\u8303\u5b9e\u8bc1\u8bba\u6587\uff0c\u5e76\u652f\u6301\u7528\u6237\u4e0a\u4f20 Skills\u3002-- Maintained by CoPaper.AI from Stanford REAP.",
-      "stars": 3523
+      "stars": 3628
     },
     {
       "repo": "WJZ-P/gemini-skill",
@@ -26,7 +26,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini\u753b\u56fe MCP\u548csill\uff0c\u652f\u6301\u9f99\u867e\u6216\u4efb\u4f55agent\u4f7f\u7528\u0669(\u0e51>\u25e1<\u0e51)\u06f6",
-      "stars": 830
+      "stars": 831
     },
     {
       "repo": "DenisSergeevitch/repo-task-proof-loop",
@@ -39,7 +39,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Spec driven skill with subagents spawning",
-      "stars": 720
+      "stars": 726
     },
     {
       "repo": "xiaopu-ai/web-design",
@@ -52,7 +52,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "A Claude Code SKILL for designing beautiful, consistent web pages \u2014 spec first, code second. ",
-      "stars": 676
+      "stars": 710
     },
     {
       "repo": "microprediction/precise",
@@ -65,20 +65,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Online Covariance and Correlation Estimation",
-      "stars": 332
-    },
-    {
-      "repo": "cellebrite-labs/ghidra-rpc",
-      "path": "SKILL.md",
-      "url": "https://github.com/cellebrite-labs/ghidra-rpc/blob/1743305487b1de754fb750486dd468ea4d3c4141/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "A Ghidra agentic reverse engineering skill.",
-      "stars": 312
+      "stars": 333
     },
     {
       "repo": "xiongqi123123/awesome-rebuttal",
@@ -91,7 +78,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "a skill for rebuttal",
-      "stars": 301
+      "stars": 299
     },
     {
       "repo": "xiaohuailabs/xiaohu-ip-studio",
@@ -104,20 +91,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\u5f00\u6e90\u4e2d\u6587\u914d\u56fe\u6280\u80fd + IP \u89d2\u8272\u5e93:\u7528\u300c\u6311\u8ba4\u77e5\u951a\u70b9\u2192\u73b0\u7f16\u9690\u55bb\u2192\u53cdPPT\u81ea\u68c0\u300d\u4e3a\u4e2d\u6587\u6df1\u5ea6\u6587\u751f\u6210\u56fa\u5b9a\u89d2\u8272\u51fa\u6f14\u7684\u6b63\u6587\u914d\u56fe",
-      "stars": 273
-    },
-    {
-      "repo": "0xquqi/sun-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/0xquqi/sun-skill/blob/f34609682095665e37d283bd6fdf6e0c2fceb492/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Justin Sun Cognitive Framework - \u5b59\u5b87\u6668\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf | 21,829 tweets + 288-page autobiography + 155-episode audio course + 269+ sources \u2192 14 mental models + 19 decision heuristics",
-      "stars": 246
+      "stars": 277
     },
     {
       "repo": "haloshin/ip-diagram-creator",
@@ -130,20 +104,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\u4e2a\u4eba IP \u56fe\u89e3\u521b\u4f5c\u5668\uff1a\u7528\u4f60\u7684 IP \u5f62\u8c61\uff0c\u751f\u6210\u4e13\u5c5e\u5185\u5bb9\u56fe\u89e3\u3002",
-      "stars": 245
-    },
-    {
-      "repo": "alchaincyf/naval-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/alchaincyf/naval-skill/blob/259e452ef6f6c2bfdbe30368f7c85bc683fe1949/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\u7eb3\u74e6\u5c14.skill \u2014 Naval Ravikant\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
-      "stars": 234
+      "stars": 251
     },
     {
       "repo": "FrankS-IntelLab/agentic-kaggle-skill",
@@ -156,7 +117,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\ud83e\udd16 AI Agent-driven Kaggle competition workflow. Battle-tested patterns for score stabilization, submission troubleshooting, kernel workflows, and spec-driven development.",
-      "stars": 175
+      "stars": 179
     },
     {
       "repo": "coinluu/resume-jd-optimizer-cn",
@@ -169,7 +130,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "JD-driven Chinese resume optimization skill for China job seekers. \u89e3\u6790\u5c97\u4f4d JD\u3001\u8bca\u65ad\u7b80\u5386\u7f3a\u53e3\u3001\u751f\u6210\u771f\u5b9e\u53ef\u4fe1\u7684\u4e2d\u6587\u5b9a\u5236\u7b80\u5386\u3001ATS \u7eaf\u6587\u672c\u7248\u548c\u9762\u8bd5\u8ffd\u95ee\u3002",
-      "stars": 158
+      "stars": 161
     },
     {
       "repo": "assafkip/research-mode",
@@ -182,7 +143,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Anti-hallucination research mode for Claude Code. Toggle on/off to enforce citation requirements and source grounding.",
-      "stars": 148
+      "stars": 149
     },
     {
       "repo": "ZadAnthony/serenity-skill",
@@ -208,7 +169,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Turn any file into a beautiful, interactive, shareable HTML \u2014 WhatsApp logs, PDFs, transcripts, code, anything.",
-      "stars": 141
+      "stars": 144
     },
     {
       "repo": "zy-zmc/tianming-skill",
@@ -221,7 +182,20 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\u5929\u547d \u00b7 AI\u957f\u7bc7\u5c0f\u8bf4\u534f\u540c\u521b\u4f5c/\u5199\u4f5cSkill \u2014 \u6a21\u5757\u5316\u63d0\u793a\u8bcd\u5de5\u7a0b\u7cfb\u7edf (Claude Skill / Prompt Engineering for Novel Writing)",
-      "stars": 134
+      "stars": 137
+    },
+    {
+      "repo": "SemineChen/yueban-image-to-code",
+      "path": "SKILL.md",
+      "url": "https://github.com/SemineChen/yueban-image-to-code/blob/e9f2e8ae66964083abc8481ff1e6a458359107f1/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": null,
+      "stars": 122
     },
     {
       "repo": "amanning3390/deepswarm",
@@ -235,19 +209,6 @@
       "security_findings": 0,
       "description": null,
       "stars": 121
-    },
-    {
-      "repo": "SemineChen/yueban-image-to-code",
-      "path": "SKILL.md",
-      "url": "https://github.com/SemineChen/yueban-image-to-code/blob/e9f2e8ae66964083abc8481ff1e6a458359107f1/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": null,
-      "stars": 117
     },
     {
       "repo": "IanShaw027/wemp-operator",
@@ -286,7 +247,20 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\u53ef\u79fb\u690d\u7684\u9006\u5411\u5206\u6790 SKILL \u6280\u80fd\uff0c\u9a71\u52a8 IDA + WPeGPT \u63d2\u4ef6\uff0c\u5bf9 PE/ELF \u8fdb\u884c\u4e09\u79cd\u6a21\u5f0f\u7684\u81ea\u52a8\u5316\u5206\u6790\uff08\u8f7b\u91cf/\u5168\u91cf/\u6f0f\u6d1e\uff09\uff0c\u8f93\u51fa\u5206\u6790\u62a5\u544a\u3002\u652f\u6301 SKILL \u6280\u80fd\u673a\u5236\u7684 AI Agent \u5747\u53ef\u52a0\u8f7d\u4f7f\u7528\u3002",
-      "stars": 96
+      "stars": 98
+    },
+    {
+      "repo": "yanliudesign/job-description-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/yanliudesign/job-description-skill/blob/ae4c0506ca261befb09c049c66ca65184887aec6/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Claude skill that reads a job description and hands back an HTML report \u2014 match score, resume tailor, interview predictor, and a should-I-apply verdict.",
+      "stars": 89
     },
     {
       "repo": "mitkox/megacode",
@@ -299,7 +273,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "RLM based security scanner for massive .NET codebases",
-      "stars": 77
+      "stars": 78
     },
     {
       "repo": "petar-nauka/fact-check-skill",
@@ -312,7 +286,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Fact-checking and disinformation detection skill for Claude and Codex",
-      "stars": 75
+      "stars": 77
     },
     {
       "repo": "Sunwood-ai-labs/SourceSage",
@@ -338,7 +312,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Engineering-grade ROS 1 / ROS 2 skill for Codex, Claude Code, and Gemini CLI.",
-      "stars": 57
+      "stars": 58
     },
     {
       "repo": "oil-oil/grok-designer",
@@ -351,7 +325,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Agent skill for delegating UI/UX review, design direction, HTML, and SVG tasks to Grok 4.5 via ZenMux",
-      "stars": 57
+      "stars": 56
     },
     {
       "repo": "fuwenhao12/academic-ref-inserter",
@@ -416,7 +390,20 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "CTO-level architectural skill for Claude Code",
-      "stars": 48
+      "stars": 49
+    },
+    {
+      "repo": "chentao326/teacher-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/chentao326/teacher-skill/blob/86056ac80f9e5f80c1e965a0de7e358ca54f4bdc/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "AI\u8001\u5e08Skill \u2014 \u7ed9\u5b9a\u8d44\u6599\u540e\u50cf\u8001\u5e08\u4e00\u6837\u6559\u4f1a\u4f60\u7406\u89e3\u5185\u5bb9\uff0c\u652f\u6301\u5b66\u60c5\u8bca\u65ad\u3001\u5206\u7ea7\u6559\u5b66\u3001\u540d\u5e08\u98ce\u683c\u6a21\u4eff",
+      "stars": 49
     },
     {
       "repo": "c-narcissus/research-paper-figure-skill-factory",
@@ -429,6 +416,19 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "A reusable Skill Factory for creating specialized research-paper figure and diagram generation skills.",
+      "stars": 47
+    },
+    {
+      "repo": "noahnan-max/chanlun-trading-system",
+      "path": "SKILL.md",
+      "url": "https://github.com/noahnan-max/chanlun-trading-system/blob/69f3af80327b256972e890bfb4e9c9a410c05279/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "\u53ef\u6267\u884c\u3001\u53ef\u590d\u6838\u7684\u7f20\u8bba(\u7f20\u4e2d\u8bf4\u7985) AI Agent Skill \u2014\u2014 \u5148\u5b9a\u7ea7\u522b\u00b7\u5148\u8ba4\u7ed3\u6784\u00b7\u5148\u5199\u5931\u6548\u70b9\u3002\u7814\u7a76/\u5b66\u4e60\u7528\u9014,\u4e0d\u8350\u80a1\u3002An operational \u7f20\u8bba (Chan Theory) Skill for AI agents; research only.",
       "stars": 47
     },
     {
@@ -468,7 +468,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\u672c\u6280\u80fd\u7528\u4e8e\u81ea\u52a8\u5316\u6267\u884c WorkBuddy \u5e94\u7528\u7a0b\u5e8f\u7684\u6bcf\u65e5\u7b7e\u5230\u64cd\u4f5c\uff0c\u901a\u8fc7\u6a21\u62df\u7528\u6237\u70b9\u51fb\u6765\u5b8c\u6210\u7b7e\u5230\u9886\u53d6\u79ef\u5206\u7684\u6d41\u7a0b\u3002",
-      "stars": 46
+      "stars": 47
     },
     {
       "repo": "maverickgao8848/mav-slide-craft-skill",
@@ -481,32 +481,6 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch with unique stylish design. customizable length, styles, format",
-      "stars": 45
-    },
-    {
-      "repo": "chentao326/teacher-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/chentao326/teacher-skill/blob/86056ac80f9e5f80c1e965a0de7e358ca54f4bdc/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "AI\u8001\u5e08Skill \u2014 \u7ed9\u5b9a\u8d44\u6599\u540e\u50cf\u8001\u5e08\u4e00\u6837\u6559\u4f1a\u4f60\u7406\u89e3\u5185\u5bb9\uff0c\u652f\u6301\u5b66\u60c5\u8bca\u65ad\u3001\u5206\u7ea7\u6559\u5b66\u3001\u540d\u5e08\u98ce\u683c\u6a21\u4eff",
-      "stars": 45
-    },
-    {
-      "repo": "noahnan-max/chanlun-trading-system",
-      "path": "SKILL.md",
-      "url": "https://github.com/noahnan-max/chanlun-trading-system/blob/69f3af80327b256972e890bfb4e9c9a410c05279/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "\u53ef\u6267\u884c\u3001\u53ef\u590d\u6838\u7684\u7f20\u8bba(\u7f20\u4e2d\u8bf4\u7985) AI Agent Skill \u2014\u2014 \u5148\u5b9a\u7ea7\u522b\u00b7\u5148\u8ba4\u7ed3\u6784\u00b7\u5148\u5199\u5931\u6548\u70b9\u3002\u7814\u7a76/\u5b66\u4e60\u7528\u9014,\u4e0d\u8350\u80a1\u3002An operational \u7f20\u8bba (Chan Theory) Skill for AI agents; research only.",
       "stars": 45
     },
     {
@@ -533,7 +507,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\"Multi-Agent Team \u2014 \u8ba931\u4f4d\u5bfc\u6f14\u5927\u5e08\u6210\u4e3a\u4f60\u7684AI\u521b\u4f5c\u56e2\u961f\"",
-      "stars": 41
+      "stars": 43
     },
     {
       "repo": "erayack/svelte-building-blocks",
@@ -549,6 +523,19 @@
       "stars": 39
     },
     {
+      "repo": "joeseesun/qiaomu-skill-publisher",
+      "path": "SKILL.md",
+      "url": "https://github.com/joeseesun/qiaomu-skill-publisher/blob/8bd944b7723e710d38f9fa4034e8ba6addbbdfed/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Publish agent skills to GitHub with attractive README checks, repo-name/skill-name safety, and real npx skills install verification.",
+      "stars": 38
+    },
+    {
       "repo": "KingJing1/podcast-transcript-txt-skill",
       "path": "SKILL.md",
       "url": "https://github.com/KingJing1/podcast-transcript-txt-skill/blob/e93217bfe1994017764eafac124e2c425debff35/SKILL.md",
@@ -562,17 +549,17 @@
       "stars": 37
     },
     {
-      "repo": "joeseesun/qiaomu-skill-publisher",
+      "repo": "wangzan101/html-to-ppt-pdf",
       "path": "SKILL.md",
-      "url": "https://github.com/joeseesun/qiaomu-skill-publisher/blob/8bd944b7723e710d38f9fa4034e8ba6addbbdfed/SKILL.md",
+      "url": "https://github.com/wangzan101/html-to-ppt-pdf/blob/0ce6f66815fc0c0f6de9c976856213a952dfafe6/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "Publish agent skills to GitHub with attractive README checks, repo-name/skill-name safety, and real npx skills install verification.",
-      "stars": 37
+      "description": "Agents skill \u2014 convert guizang-ppt-skill HTML decks to PDF + PPTX for offline presentations \u00b7  guizang-ppt-skill \u7684\u6a2a\u5411\u7ffb\u9875 HTML deck \u8f6c\u6210 PDF + PPTX(\u56fe\u7247\u578b),\u4f9b\u7ebf\u4e0b\u6f14\u8bb2",
+      "stars": 35
     },
     {
       "repo": "SystemTce/dify-skills",
@@ -585,20 +572,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Dify \u5de5\u4f5c\u6d41\u548c\u63d2\u4ef6\u5f00\u53d1\u5b8c\u6574\u6280\u80fd\u4f53\u7cfb - \u6a21\u5757\u5316\u3001\u6e10\u8fdb\u5f0f\u62ab\u9732\u3001\u751f\u4ea7\u7ea7\u8d28\u91cf",
-      "stars": 34
-    },
-    {
-      "repo": "wangzan101/html-to-ppt-pdf",
-      "path": "SKILL.md",
-      "url": "https://github.com/wangzan101/html-to-ppt-pdf/blob/0ce6f66815fc0c0f6de9c976856213a952dfafe6/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Agents skill \u2014 convert guizang-ppt-skill HTML decks to PDF + PPTX for offline presentations \u00b7  guizang-ppt-skill \u7684\u6a2a\u5411\u7ffb\u9875 HTML deck \u8f6c\u6210 PDF + PPTX(\u56fe\u7247\u578b),\u4f9b\u7ebf\u4e0b\u6f14\u8bb2",
-      "stars": 33
+      "stars": 35
     },
     {
       "repo": "diggiehippie/ai-consulting-onboarding",
@@ -611,7 +585,7 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "A Claude Code skill that generates a complete client onboarding package for AI consultants and solopreneurs. Creates 4 ready-to-use documents: intake questionnaire, welcome email, service agreement, and project brief.",
-      "stars": 33
+      "stars": 34
     },
     {
       "repo": "sstklen/infinite-gratitude",
@@ -624,6 +598,19 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "\ud83e\udd4b Multi-agent research skill for Claude Code | 10 \u500b AI Agent \u5354\u4f5c\u7814\u7a76 | 10 AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5354\u8abf\u30ea\u30b5\u30fc\u30c1 \u2014 AI Dojo series",
+      "stars": 31
+    },
+    {
+      "repo": "KaguraTart/paper-to-course",
+      "path": "SKILL.md",
+      "url": "https://github.com/KaguraTart/paper-to-course/blob/b739c6a20454f4381be26a31109680f87a1d2c46/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "A powerful AI skill for learning research paper",
       "stars": 31
     },
     {
@@ -640,16 +627,16 @@
       "stars": 30
     },
     {
-      "repo": "KaguraTart/paper-to-course",
+      "repo": "Lucent-Snow/anti-default-output",
       "path": "SKILL.md",
-      "url": "https://github.com/KaguraTart/paper-to-course/blob/b739c6a20454f4381be26a31109680f87a1d2c46/SKILL.md",
+      "url": "https://github.com/Lucent-Snow/anti-default-output/blob/1b31c4fa2b08d354faa183ea886c34e1d7e9bca6/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "A powerful AI skill for learning research paper",
+      "description": "A skill for breaking AI's default, generic output patterns in creative tasks.",
       "stars": 30
     },
     {
@@ -663,6 +650,19 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Pressure-tested Claude skill: decompose hard tasks risk-first, verify with pasteable evidence, decide what to do next. Built with skill-TDD against observed frontier-model failure modes.",
+      "stars": 25
+    },
+    {
+      "repo": "ai-freer/fortune-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/ai-freer/fortune-skill/blob/ea67665e8eb96be8125cd8d5c41d11774fedec91/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Chinese traditional fortune-telling AI skill (BaZi \u516b\u5b57 + Zi Wei Dou Shu \u7d2b\u5fae\u6597\u6570) for Claude Code, Codex, Cursor, Trae and any agent platform. PolyForm Noncommercial.",
       "stars": 25
     },
     {
@@ -692,19 +692,6 @@
       "stars": 24
     },
     {
-      "repo": "ai-freer/fortune-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/ai-freer/fortune-skill/blob/ea67665e8eb96be8125cd8d5c41d11774fedec91/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Chinese traditional fortune-telling AI skill (BaZi \u516b\u5b57 + Zi Wei Dou Shu \u7d2b\u5fae\u6597\u6570) for Claude Code, Codex, Cursor, Trae and any agent platform. PolyForm Noncommercial.",
-      "stars": 23
-    },
-    {
       "repo": "lsmith77/traktor-kontrol-qml",
       "path": "SKILL.md",
       "url": "https://github.com/lsmith77/traktor-kontrol-qml/blob/e8fe27247c61dda0dfdf49122f71c08f36d4ac65/SKILL.md",
@@ -715,7 +702,33 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Documentation on how to use QML to customize Native Instrument Traktor controllers.",
+      "stars": 21
+    },
+    {
+      "repo": "erhanrensheng/chanlun-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/erhanrensheng/chanlun-skill/blob/eb944b2e1655ac6720c931cd82dac1dc19927684/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": null,
       "stars": 20
+    },
+    {
+      "repo": "freestylefly/daily-reporter-skill",
+      "path": "SKILL.md",
+      "url": "https://github.com/freestylefly/daily-reporter-skill/blob/f16033f9e351d47e505077a1cb262cf0d1e6e895/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "Daily Reporter Skill \u2014\u2014 \u804c\u573a\u6c47\u62a5\u667a\u80fd\u751f\u6210\u52a9\u624b\uff0c\u5c06\u788e\u7247\u5316\u5de5\u4f5c\u8bb0\u5f55\u81ea\u52a8\u8f6c\u5316\u4e3a\u4e13\u4e1a\u7684\u65e5\u62a5/\u5468\u62a5/\u6708\u62a5",
+      "stars": 19
     },
     {
       "repo": "leejpsd/typescript-react-nextjs-patterns",
@@ -731,19 +744,6 @@
       "stars": 18
     },
     {
-      "repo": "freestylefly/daily-reporter-skill",
-      "path": "SKILL.md",
-      "url": "https://github.com/freestylefly/daily-reporter-skill/blob/f16033f9e351d47e505077a1cb262cf0d1e6e895/SKILL.md",
-      "score": 97,
-      "grade": "A+",
-      "color": "brightgreen",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 0,
-      "description": "Daily Reporter Skill \u2014\u2014 \u804c\u573a\u6c47\u62a5\u667a\u80fd\u751f\u6210\u52a9\u624b\uff0c\u5c06\u788e\u7247\u5316\u5de5\u4f5c\u8bb0\u5f55\u81ea\u52a8\u8f6c\u5316\u4e3a\u4e13\u4e1a\u7684\u65e5\u62a5/\u5468\u62a5/\u6708\u62a5",
-      "stars": 18
-    },
-    {
       "repo": "joshferrara/ghostwriter",
       "path": "SKILL.md",
       "url": "https://github.com/joshferrara/ghostwriter/blob/619e43d12872aaa316fae8e3ce52ce979160c250/SKILL.md",
@@ -754,7 +754,20 @@
       "lint_warnings": 1,
       "security_findings": 0,
       "description": "Teach your agent how to write like you. A portable two-mode skill that turns your sent writing into a style guide your agent uses for drafts that sound like you, not like AI.",
-      "stars": 16
+      "stars": 17
+    },
+    {
+      "repo": "ActiveInferenceInstitute/GEO-INFER",
+      "path": "SKILL.md",
+      "url": "https://github.com/ActiveInferenceInstitute/GEO-INFER/blob/509bef2d5b4047598025219a01a48d9ce95d94fb/SKILL.md",
+      "score": 97,
+      "grade": "A+",
+      "color": "brightgreen",
+      "lint_errors": 0,
+      "lint_warnings": 1,
+      "security_findings": 0,
+      "description": "GEO-INFER \u2014 a 44-module geospatial inference monorepo from the Active Inference Institute. Spatial analysis, active inference, domain modeling, agent workflows, and reproducible repository validation in one uv/Python workspace (H3, Bayesian models, place & risk).",
+      "stars": 15
     },
     {
       "repo": "singhsume123/xml-to-compose-skill",
@@ -783,17 +796,17 @@
       "stars": 15
     },
     {
-      "repo": "ActiveInferenceInstitute/GEO-INFER",
+      "repo": "YixiaJack/dating-master-skill",
       "path": "SKILL.md",
-      "url": "https://github.com/ActiveInferenceInstitute/GEO-INFER/blob/814ae842cc9be6f2f1b613d5a75002e76932dd1f/SKILL.md",
+      "url": "https://github.com/YixiaJack/dating-master-skill/blob/a6c92c664c818e776571ddc6f3aa8464e236ef7d/SKILL.md",
       "score": 97,
       "grade": "A+",
       "color": "brightgreen",
       "lint_errors": 0,
       "lint_warnings": 1,
       "security_findings": 0,
-      "description": "GEO-INFER \u2014 a 44-module geospatial inference monorepo from the Active Inference Institute. Spatial analysis, active inference, domain modeling, agent workflows, and reproducible repository validation in one uv/Python workspace (H3, Bayesian models, place & risk).",
-      "stars": 13
+      "description": "\u5168\u77e5\u60c5\u611f\u5bfc\u5e08 \u2014 \u57fa\u4e8e\u8bed\u7528\u5b66\u3001\u4f9d\u604b\u7406\u8bba\u548c\u4fe1\u53f7\u535a\u5f08\u8bba\u7684\u60c5\u611f\u6d1e\u5bdf Claude Code Skill",
+      "stars": 15
     },
     {
       "repo": "Rimagination/dy-note",
@@ -806,7 +819,7 @@
       "lint_warnings": 1,
       "security_findings": 2,
       "description": "Codex Skill for turning Douyin videos into evidence-based Markdown notes",
-      "stars": 151
+      "stars": 156
     },
     {
       "repo": "ParthJadhav/ios-marketing-capture",
@@ -819,7 +832,7 @@
       "lint_warnings": 1,
       "security_findings": 1,
       "description": "Automate Multi-Locale asset creation for your iOS app.",
-      "stars": 255
+      "stars": 258
     },
     {
       "repo": "risingwavelabs/box0",
@@ -845,7 +858,7 @@
       "lint_warnings": 1,
       "security_findings": 1,
       "description": "MCP server for IOTA blockchain \u2014 20 tools for AI agent integration (wallet, Move CLI, on-chain queries via Model Context Protocol)",
-      "stars": 65
+      "stars": 64
     },
     {
       "repo": "ProjectOpenSea/opensea-skill",
@@ -858,12 +871,12 @@
       "lint_warnings": 1,
       "security_findings": 1,
       "description": "Agent skill for interacting with OpenSea",
-      "stars": 47
+      "stars": 49
     },
     {
       "repo": "timoncool/civitai-mcp-ultimate",
       "path": "SKILL.md",
-      "url": "https://github.com/timoncool/civitai-mcp-ultimate/blob/760e8b8767709fffbc5046415d7fde12da1aebbb/SKILL.md",
+      "url": "https://github.com/timoncool/civitai-mcp-ultimate/blob/4a4a8199b97fb14cdfe4ffe44a87c74ce45610f4/SKILL.md",
       "score": 94,
       "grade": "A",
       "color": "brightgreen",
@@ -897,12 +910,12 @@
       "lint_warnings": 1,
       "security_findings": 2,
       "description": "Claude Code skill: turn one talking-head take into a kinetic supers + camera whips prompt for Seedance 2.0 Fast \u2014 same face, same room, same lip sync, no editing timeline.",
-      "stars": 32
+      "stars": 35
     },
     {
       "repo": "tbdavid2019/openclaw-docs-skill",
       "path": "SKILL.md",
-      "url": "https://github.com/tbdavid2019/openclaw-docs-skill/blob/18785c759182f93c99b25fbe5e4d26531709f857/SKILL.md",
+      "url": "https://github.com/tbdavid2019/openclaw-docs-skill/blob/2f7849b1de8abc1775a584d1639b84a24133fc30/SKILL.md",
       "score": 92,
       "grade": "A-",
       "color": "green",
@@ -923,7 +936,7 @@
       "lint_warnings": 1,
       "security_findings": 2,
       "description": "Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and LangChain to orchestrate intelligent, step-by-step penetration testing workflows while maintaining ethical hacking standards.",
-      "stars": 1855
+      "stars": 1859
     },
     {
       "repo": "saxenauts/syke",
@@ -975,20 +988,7 @@
       "lint_warnings": 1,
       "security_findings": 3,
       "description": "An LLM-first SEO analysis skill for Antigravity, Codex, Claude with 16 specialized sub-skills, 10 specialist agents, and 88 optional utility scripts used as evidence collectors.",
-      "stars": 865
-    },
-    {
-      "repo": "starriv/worth-buy-stocks",
-      "path": "SKILL.md",
-      "url": "https://github.com/starriv/worth-buy-stocks/blob/bb3f2cc2310f5c443021f96dbb8ffa3bbfc92ec2/SKILL.md",
-      "score": 88,
-      "grade": "B+",
-      "color": "green",
-      "lint_errors": 0,
-      "lint_warnings": 1,
-      "security_findings": 3,
-      "description": "\u4ec0\u4e48\u503c\u5f97\u4e70 - \u7f8e\u80a1\u7248",
-      "stars": 101
+      "stars": 880
     },
     {
       "repo": "ALBEDO-TABAI/lets-go-rss",
@@ -1040,7 +1040,7 @@
       "lint_warnings": 1,
       "security_findings": 4,
       "description": "Correction-first persistent memory for AI agents. MCP server + SDK + CLI. Compounds across sessions.",
-      "stars": 368
+      "stars": 370
     },
     {
       "repo": "iAmCorey/wifi-optimizer",
@@ -1092,7 +1092,7 @@
       "lint_warnings": 1,
       "security_findings": 3,
       "description": "\u5c0f\u7ea2\u4e66\u5c01\u9762\u751f\u6210\u5668 - Claude Code Skill\uff0c\u652f\u630118\u79cd\u9884\u8bbe\u98ce\u683c\uff0c\u547d\u4ee4\u884c\u76f4\u63a5\u751f\u6210\u5c0f\u7ea2\u4e66\u5c01\u9762",
-      "stars": 169
+      "stars": 176
     },
     {
       "repo": "eddmann/strava-cli",
@@ -1105,7 +1105,7 @@
       "lint_warnings": 1,
       "security_findings": 3,
       "description": "Strava from your terminal. Pipe it, script it, automate it.",
-      "stars": 26
+      "stars": 27
     },
     {
       "repo": "Jimmy-Holiday/xxyy-trade-skill",
@@ -1131,7 +1131,7 @@
       "lint_warnings": 1,
       "security_findings": 8,
       "description": "Graphsignal Profiler",
-      "stars": 243
+      "stars": 244
     },
     {
       "repo": "gsd-build/gsd-browser",
@@ -1144,7 +1144,7 @@
       "lint_warnings": 1,
       "security_findings": 14,
       "description": "A fast, native browser automation CLI built from the ground up for AI agents, powered by Chrome DevTools Protocol. 63 commands covering navigation, interaction, screenshots, accessibility, network mocking, visual diffing, test generation, and more \u2014 all from a single binary.",
-      "stars": 259
+      "stars": 263
     },
     {
       "repo": "vinceglakas/receipt-pattern",
@@ -1170,7 +1170,7 @@
       "lint_warnings": 1,
       "security_findings": 9,
       "description": "Total Recall \u2014 Autonomous Agent Memory. The only memory system that watches on its own. Five-layer observational memory for OpenClaw agents. ~$0.10/month.",
-      "stars": 273
+      "stars": 272
     }
   ]
 }
